@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "c6be8d8f25f7eb226c33d65a3f9450ec"
+build_time: [1553257285, 883275000]
+inputs:
+  "/Users/pavelkurilov/Library/Mobile Documents/com~apple~CloudDocs/TestProjectForSibersCompanyByKurilovP/TestProjectForSibersCompanyByKurilovP/ViewController.swift": [1553257281, 0]
+  "/Users/pavelkurilov/Library/Mobile Documents/com~apple~CloudDocs/TestProjectForSibersCompanyByKurilovP/TestProjectForSibersCompanyByKurilovP/AppDelegate.swift": [1553257281, 0]
