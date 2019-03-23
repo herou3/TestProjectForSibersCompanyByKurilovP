@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "95276D755F7370483344705251B77FD1D5E4EB56",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "95276D755F7370483344705251B77FD1D5E4EB56" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2F658035-1B7A-4A0F-92F8-6A2F381B6F47",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "95276D755F7370483344705251B77FD1D5E4EB56" : "TestProjectForSibersCompanyByKurilovP\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TestProjectForSibersCompanyByKurilovP",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TestProjectForSibersCompanyByKurilovP.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:herou3\/TestProjectForSibersCompanyByKurilovP.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "95276D755F7370483344705251B77FD1D5E4EB56"
+    }
+  ]
+}

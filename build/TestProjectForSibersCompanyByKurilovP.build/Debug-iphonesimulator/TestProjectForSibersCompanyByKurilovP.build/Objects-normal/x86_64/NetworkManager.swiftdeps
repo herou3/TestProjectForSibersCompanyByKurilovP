@@ -1,0 +1,266 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NetworkManager"
+provides-nominal:
+- "37TestProjectForSibersCompanyByKurilovP14NetworkManagerP"
+provides-member:
+- ["37TestProjectForSibersCompanyByKurilovP14NetworkManagerP", ""]
+- ["37TestProjectForSibersCompanyByKurilovP14NetworkManagerP", "JSONTaskCompletionHandler"]
+- ["37TestProjectForSibersCompanyByKurilovP14NetworkManagerP", "fetch"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "=="
+- !private "??"
+- !private "CastingPrecedence"
+- "Decodable"
+- !private "DispatchQueue"
+- "FloatLiteralType"
+- !private "HTTPURLResponse"
+- "IntegerLiteralType"
+- !private "JSONDecoder"
+- "NetworkManager"
+- "NetworkManagerError"
+- "Result"
+- "URLRequest"
+- !private "URLResponse"
+- "URLSession"
+- "URLSessionDataTask"
+- "Void"
+- !private "print"
+depends-member:
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "async"]
+- !private ["s7CVarArgP", "dataTask"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "resume"]
+- !private ["s7CVarArgP", "statusCode"]
+- !private ["s28CustomDebugStringConvertibleP", "async"]
+- !private ["s28CustomDebugStringConvertibleP", "dataTask"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "invalidData"]
+- !private ["s28CustomDebugStringConvertibleP", "jsonConversionFailure"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "requestFailed"]
+- !private ["s28CustomDebugStringConvertibleP", "responseUnsuccessful"]
+- !private ["s28CustomDebugStringConvertibleP", "responseUnsuccessfulCode401"]
+- !private ["s28CustomDebugStringConvertibleP", "responseUnsuccessfulCode404"]
+- !private ["s28CustomDebugStringConvertibleP", "resume"]
+- !private ["s28CustomDebugStringConvertibleP", "statusCode"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "invalidData"]
+- !private ["s17CustomReflectableP", "jsonConversionFailure"]
+- !private ["s17CustomReflectableP", "requestFailed"]
+- !private ["s17CustomReflectableP", "responseUnsuccessful"]
+- !private ["s17CustomReflectableP", "responseUnsuccessfulCode401"]
+- !private ["s17CustomReflectableP", "responseUnsuccessfulCode404"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "async"]
+- !private ["s23CustomStringConvertibleP", "dataTask"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "resume"]
+- !private ["s23CustomStringConvertibleP", "statusCode"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "invalidData"]
+- !private ["Se", "jsonConversionFailure"]
+- !private ["Se", "requestFailed"]
+- !private ["Se", "responseUnsuccessful"]
+- !private ["Se", "responseUnsuccessfulCode401"]
+- !private ["Se", "responseUnsuccessfulCode404"]
+- !private ["So18OS_dispatch_objectC", "async"]
+- !private ["So18OS_dispatch_objectC", "main"]
+- !private ["So17OS_dispatch_queueC", "async"]
+- !private ["So17OS_dispatch_queueC", "main"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "invalidData"]
+- !private ["SE", "jsonConversionFailure"]
+- !private ["SE", "requestFailed"]
+- !private ["SE", "responseUnsuccessful"]
+- !private ["SE", "responseUnsuccessfulCode401"]
+- !private ["SE", "responseUnsuccessfulCode404"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "async"]
+- !private ["SQ", "dataTask"]
+- !private ["SQ", "init"]
+- !private ["SQ", "invalidData"]
+- !private ["SQ", "jsonConversionFailure"]
+- !private ["SQ", "jsonParsingFailure"]
+- !private ["SQ", "main"]
+- !private ["SQ", "requestFailed"]
+- !private ["SQ", "responseUnsuccessful"]
+- !private ["SQ", "responseUnsuccessfulCode401"]
+- !private ["SQ", "responseUnsuccessfulCode404"]
+- !private ["SQ", "resume"]
+- !private ["SQ", "statusCode"]
+- !private ["s5ErrorP", "invalidData"]
+- !private ["s5ErrorP", "jsonConversionFailure"]
+- !private ["s5ErrorP", "jsonParsingFailure"]
+- !private ["s5ErrorP", "requestFailed"]
+- !private ["s5ErrorP", "responseUnsuccessful"]
+- !private ["s5ErrorP", "responseUnsuccessfulCode401"]
+- !private ["s5ErrorP", "responseUnsuccessfulCode404"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s23ExpressibleByNilLiteralP", "invalidData"]
+- !private ["s23ExpressibleByNilLiteralP", "jsonConversionFailure"]
+- !private ["s23ExpressibleByNilLiteralP", "requestFailed"]
+- !private ["s23ExpressibleByNilLiteralP", "responseUnsuccessful"]
+- !private ["s23ExpressibleByNilLiteralP", "responseUnsuccessfulCode401"]
+- !private ["s23ExpressibleByNilLiteralP", "responseUnsuccessfulCode404"]
+- !private ["So17NSHTTPURLResponseC", "statusCode"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "async"]
+- !private ["SH", "dataTask"]
+- !private ["SH", "init"]
+- !private ["SH", "invalidData"]
+- !private ["SH", "jsonConversionFailure"]
+- !private ["SH", "jsonParsingFailure"]
+- !private ["SH", "main"]
+- !private ["SH", "requestFailed"]
+- !private ["SH", "responseUnsuccessful"]
+- !private ["SH", "responseUnsuccessfulCode401"]
+- !private ["SH", "responseUnsuccessfulCode404"]
+- !private ["SH", "resume"]
+- !private ["SH", "statusCode"]
+- !private ["10Foundation11JSONDecoderC", "decode"]
+- !private ["10Foundation11JSONDecoderC", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "statusCode"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "resume"]
+- !private ["So9NSCopyingP", "statusCode"]
+- !private ["So8NSObjectC", "async"]
+- !private ["So8NSObjectC", "dataTask"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "resume"]
+- !private ["So8NSObjectC", "statusCode"]
+- !private ["So8NSObjectP", "async"]
+- !private ["So8NSObjectP", "dataTask"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "resume"]
+- !private ["So8NSObjectP", "statusCode"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "statusCode"]
+- ["37TestProjectForSibersCompanyByKurilovP14NetworkManagerP", "Decodable"]
+- !private ["37TestProjectForSibersCompanyByKurilovP14NetworkManagerP", "DispatchQueue"]
+- !private ["37TestProjectForSibersCompanyByKurilovP14NetworkManagerP", "HTTPURLResponse"]
+- !private ["37TestProjectForSibersCompanyByKurilovP14NetworkManagerP", "JSONDecoder"]
+- ["37TestProjectForSibersCompanyByKurilovP14NetworkManagerP", "JSONTaskCompletionHandler"]
+- ["37TestProjectForSibersCompanyByKurilovP14NetworkManagerP", "NetworkManagerError"]
+- ["37TestProjectForSibersCompanyByKurilovP14NetworkManagerP", "Result"]
+- ["37TestProjectForSibersCompanyByKurilovP14NetworkManagerP", "URLRequest"]
+- !private ["37TestProjectForSibersCompanyByKurilovP14NetworkManagerP", "URLResponse"]
+- ["37TestProjectForSibersCompanyByKurilovP14NetworkManagerP", "URLSession"]
+- ["37TestProjectForSibersCompanyByKurilovP14NetworkManagerP", "URLSessionDataTask"]
+- ["37TestProjectForSibersCompanyByKurilovP14NetworkManagerP", "Void"]
+- !private ["37TestProjectForSibersCompanyByKurilovP14NetworkManagerP", "decodingTask"]
+- ["37TestProjectForSibersCompanyByKurilovP14NetworkManagerP", "fetch"]
+- !private ["37TestProjectForSibersCompanyByKurilovP14NetworkManagerP", "print"]
+- ["37TestProjectForSibersCompanyByKurilovP14NetworkManagerP", "session"]
+- ["37TestProjectForSibersCompanyByKurilovP19NetworkManagerErrorO", "deinit"]
+- !private ["37TestProjectForSibersCompanyByKurilovP19NetworkManagerErrorO", "invalidData"]
+- !private ["37TestProjectForSibersCompanyByKurilovP19NetworkManagerErrorO", "jsonConversionFailure"]
+- !private ["37TestProjectForSibersCompanyByKurilovP19NetworkManagerErrorO", "jsonParsingFailure"]
+- !private ["37TestProjectForSibersCompanyByKurilovP19NetworkManagerErrorO", "requestFailed"]
+- !private ["37TestProjectForSibersCompanyByKurilovP19NetworkManagerErrorO", "responseUnsuccessful"]
+- !private ["37TestProjectForSibersCompanyByKurilovP19NetworkManagerErrorO", "responseUnsuccessfulCode401"]
+- !private ["37TestProjectForSibersCompanyByKurilovP19NetworkManagerErrorO", "responseUnsuccessfulCode404"]
+- !private ["So9OS_objectC", "async"]
+- !private ["So9OS_objectC", "main"]
+- !private ["Sq", "invalidData"]
+- !private ["Sq", "jsonConversionFailure"]
+- !private ["Sq", "requestFailed"]
+- !private ["Sq", "responseUnsuccessful"]
+- !private ["Sq", "responseUnsuccessfulCode401"]
+- !private ["Sq", "responseUnsuccessfulCode404"]
+- !private ["So19NSProgressReportingP", "resume"]
+- !private ["37TestProjectForSibersCompanyByKurilovP6ResultO", "failure"]
+- !private ["37TestProjectForSibersCompanyByKurilovP6ResultO", "success"]
+- !private ["So13NSURLResponseC", "init"]
+- !private ["So13NSURLResponseC", "statusCode"]
+- !private ["So12NSURLSessionC", "dataTask"]
+- !private ["So20NSURLSessionDataTaskC", "resume"]
+- !private ["So16NSURLSessionTaskC", "resume"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "async"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dataTask"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "resume"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "statusCode"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "invalidData"]
+- !private ["s21_ObjectiveCBridgeableP", "jsonConversionFailure"]
+- !private ["s21_ObjectiveCBridgeableP", "requestFailed"]
+- !private ["s21_ObjectiveCBridgeableP", "responseUnsuccessful"]
+- !private ["s21_ObjectiveCBridgeableP", "responseUnsuccessfulCode401"]
+- !private ["s21_ObjectiveCBridgeableP", "responseUnsuccessfulCode404"]
+depends-nominal:
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "So18OS_dispatch_objectC"
+- !private "So17OS_dispatch_queueC"
+- !private "SE"
+- !private "SQ"
+- !private "s5ErrorP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "So17NSHTTPURLResponseC"
+- !private "SH"
+- !private "10Foundation11JSONDecoderC"
+- !private "s25LosslessStringConvertibleP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- "37TestProjectForSibersCompanyByKurilovP14NetworkManagerP"
+- "37TestProjectForSibersCompanyByKurilovP19NetworkManagerErrorO"
+- !private "So9OS_objectC"
+- !private "Sq"
+- !private "So19NSProgressReportingP"
+- !private "37TestProjectForSibersCompanyByKurilovP6ResultO"
+- !private "So13NSURLResponseC"
+- !private "So12NSURLSessionC"
+- !private "So20NSURLSessionDataTaskC"
+- !private "So16NSURLSessionTaskC"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "3a1031c827465603b556d54cfaefe20b"

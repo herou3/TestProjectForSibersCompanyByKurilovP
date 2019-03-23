@@ -5,6 +5,3110 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>00168634-E769-4BD6-B707-D55361B8AF30</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>00168634-E769-4BD6-B707-D55361B8AF30.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575048018.39112401</real>
+			<key>timeStoppedRecording</key>
+			<real>575048018.77107596</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>00168634-E769-4BD6-B707-D55361B8AF30</string>
+		</dict>
+		<key>01439B67-D726-4E68-8274-4436817429C9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>01439B67-D726-4E68-8274-4436817429C9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575053064.90956903</real>
+			<key>timeStoppedRecording</key>
+			<real>575053077.18348205</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>01439B67-D726-4E68-8274-4436817429C9</string>
+		</dict>
+		<key>053E91B8-E998-465C-B3C7-40920F19CFA2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>053E91B8-E998-465C-B3C7-40920F19CFA2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059341.82441294</real>
+			<key>timeStoppedRecording</key>
+			<real>575059342.29929996</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>053E91B8-E998-465C-B3C7-40920F19CFA2</string>
+		</dict>
+		<key>0685767C-7A01-4BBE-AADA-302B73BA13E4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0685767C-7A01-4BBE-AADA-302B73BA13E4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575010291.02143896</real>
+			<key>timeStoppedRecording</key>
+			<real>575010301.41819704</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>0685767C-7A01-4BBE-AADA-302B73BA13E4</string>
+		</dict>
+		<key>07A9C0E4-EB5C-4BBB-BD8D-73015E026293</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>07A9C0E4-EB5C-4BBB-BD8D-73015E026293.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575052003.909361</real>
+			<key>timeStoppedRecording</key>
+			<real>575052005.28658497</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>07A9C0E4-EB5C-4BBB-BD8D-73015E026293</string>
+		</dict>
+		<key>08C9E280-CADC-4DE1-8283-58F757507F24</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>08C9E280-CADC-4DE1-8283-58F757507F24.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059375.634251</real>
+			<key>timeStoppedRecording</key>
+			<real>575059377.54266</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>08C9E280-CADC-4DE1-8283-58F757507F24</string>
+		</dict>
+		<key>0C1C35E9-8F13-4ED7-BC6F-ECD9234391F8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0C1C35E9-8F13-4ED7-BC6F-ECD9234391F8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575048801.38495803</real>
+			<key>timeStoppedRecording</key>
+			<real>575048802.09181905</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>0C1C35E9-8F13-4ED7-BC6F-ECD9234391F8</string>
+		</dict>
+		<key>0E0BCC10-0CC1-484A-8F3E-F2D7FC8D0390</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0E0BCC10-0CC1-484A-8F3E-F2D7FC8D0390.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575044096.37191498</real>
+			<key>timeStoppedRecording</key>
+			<real>575044100.60537899</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>0E0BCC10-0CC1-484A-8F3E-F2D7FC8D0390</string>
+		</dict>
+		<key>0F1ACA37-D522-4036-9366-1A9825FA7108</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0F1ACA37-D522-4036-9366-1A9825FA7108.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575010271.31672895</real>
+			<key>timeStoppedRecording</key>
+			<real>575010271.51512694</real>
+			<key>title</key>
+			<string>Clean TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>0F1ACA37-D522-4036-9366-1A9825FA7108</string>
+		</dict>
+		<key>11161DCB-6934-4731-8E09-58EFC94E5952</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>11161DCB-6934-4731-8E09-58EFC94E5952.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575060010.42195201</real>
+			<key>timeStoppedRecording</key>
+			<real>575060011.22295499</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>11161DCB-6934-4731-8E09-58EFC94E5952</string>
+		</dict>
+		<key>121AFCE5-B2E3-49CE-8DD7-0B8D4B6063D1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>121AFCE5-B2E3-49CE-8DD7-0B8D4B6063D1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575058548.28990698</real>
+			<key>timeStoppedRecording</key>
+			<real>575058549.14107001</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>121AFCE5-B2E3-49CE-8DD7-0B8D4B6063D1</string>
+		</dict>
+		<key>15F0DCEE-0B0B-42C2-A14D-DD86BBBC895B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>15F0DCEE-0B0B-42C2-A14D-DD86BBBC895B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575051890.53217602</real>
+			<key>timeStoppedRecording</key>
+			<real>575051892.14579999</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>15F0DCEE-0B0B-42C2-A14D-DD86BBBC895B</string>
+		</dict>
+		<key>186FAD4C-A4DB-45F8-A604-249F9A0FD8AE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>186FAD4C-A4DB-45F8-A604-249F9A0FD8AE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575057843.21477199</real>
+			<key>timeStoppedRecording</key>
+			<real>575057846.33780396</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>186FAD4C-A4DB-45F8-A604-249F9A0FD8AE</string>
+		</dict>
+		<key>19DE7574-7579-45F1-BD4A-E2C273BC66B7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>19DE7574-7579-45F1-BD4A-E2C273BC66B7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575025379.97638595</real>
+			<key>timeStoppedRecording</key>
+			<real>575025384.71248603</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>19DE7574-7579-45F1-BD4A-E2C273BC66B7</string>
+		</dict>
+		<key>1A0B468E-48C6-465F-ADB9-DB3040E13FB1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1A0B468E-48C6-465F-ADB9-DB3040E13FB1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575058892.50725198</real>
+			<key>timeStoppedRecording</key>
+			<real>575058897.55312598</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>1A0B468E-48C6-465F-ADB9-DB3040E13FB1</string>
+		</dict>
+		<key>1B195AE7-E985-4EEC-A330-4575EBDDC61D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1B195AE7-E985-4EEC-A330-4575EBDDC61D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059131.37218499</real>
+			<key>timeStoppedRecording</key>
+			<real>575059133.64642501</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>1B195AE7-E985-4EEC-A330-4575EBDDC61D</string>
+		</dict>
+		<key>1D29BF18-64F1-49B9-8026-63FF4A496A73</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1D29BF18-64F1-49B9-8026-63FF4A496A73.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575048280.66087699</real>
+			<key>timeStoppedRecording</key>
+			<real>575048284.26464796</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>1D29BF18-64F1-49B9-8026-63FF4A496A73</string>
+		</dict>
+		<key>1F2D2B99-F21A-4660-93F6-D51DA67BC640</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1F2D2B99-F21A-4660-93F6-D51DA67BC640.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575025418.78466702</real>
+			<key>timeStoppedRecording</key>
+			<real>575025419.04213297</real>
+			<key>title</key>
+			<string>Clean TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>1F2D2B99-F21A-4660-93F6-D51DA67BC640</string>
+		</dict>
+		<key>2AFA5337-FD4B-4BAE-8971-782E84497F42</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2AFA5337-FD4B-4BAE-8971-782E84497F42.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575025399.66868699</real>
+			<key>timeStoppedRecording</key>
+			<real>575025399.79868102</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>2AFA5337-FD4B-4BAE-8971-782E84497F42</string>
+		</dict>
+		<key>2B363D9A-65C6-4518-A064-40A0D614853D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2B363D9A-65C6-4518-A064-40A0D614853D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059287.58646798</real>
+			<key>timeStoppedRecording</key>
+			<real>575059288.34703195</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>2B363D9A-65C6-4518-A064-40A0D614853D</string>
+		</dict>
+		<key>2C500454-E5C9-4522-807B-E15D124ED966</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2C500454-E5C9-4522-807B-E15D124ED966.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575053029.41083503</real>
+			<key>timeStoppedRecording</key>
+			<real>575053032.70385206</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>2C500454-E5C9-4522-807B-E15D124ED966</string>
+		</dict>
+		<key>2E677AAB-0D0E-4638-B9B1-C67E573798A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2E677AAB-0D0E-4638-B9B1-C67E573798A2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059272.86178696</real>
+			<key>timeStoppedRecording</key>
+			<real>575059274.12676895</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>2E677AAB-0D0E-4638-B9B1-C67E573798A2</string>
+		</dict>
+		<key>2EA0F04F-0056-45DD-BCF3-B77A9DAF22EC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2EA0F04F-0056-45DD-BCF3-B77A9DAF22EC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575048032.04662895</real>
+			<key>timeStoppedRecording</key>
+			<real>575048032.873142</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>2EA0F04F-0056-45DD-BCF3-B77A9DAF22EC</string>
+		</dict>
+		<key>31FAADD6-3E9A-45E0-A6E6-DB111B247706</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>31FAADD6-3E9A-45E0-A6E6-DB111B247706.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575048190.323318</real>
+			<key>timeStoppedRecording</key>
+			<real>575048195.72645402</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>31FAADD6-3E9A-45E0-A6E6-DB111B247706</string>
+		</dict>
+		<key>32920901-F6B4-4758-9055-A7F0922F2DA7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>32920901-F6B4-4758-9055-A7F0922F2DA7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575052113.55655706</real>
+			<key>timeStoppedRecording</key>
+			<real>575052114.83408201</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>32920901-F6B4-4758-9055-A7F0922F2DA7</string>
+		</dict>
+		<key>34542382-FE66-413C-A044-D16303E16FBF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>34542382-FE66-413C-A044-D16303E16FBF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059548.84540999</real>
+			<key>timeStoppedRecording</key>
+			<real>575059551.76028895</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>34542382-FE66-413C-A044-D16303E16FBF</string>
+		</dict>
+		<key>35346A23-2BA6-422B-A1D1-3FC349746D85</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>35346A23-2BA6-422B-A1D1-3FC349746D85.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059960.02147496</real>
+			<key>timeStoppedRecording</key>
+			<real>575059960.51435101</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>35346A23-2BA6-422B-A1D1-3FC349746D85</string>
+		</dict>
+		<key>3A9DEC77-2CC8-4CCB-B820-49BC64B40F3D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3A9DEC77-2CC8-4CCB-B820-49BC64B40F3D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>574950738.07993102</real>
+			<key>timeStoppedRecording</key>
+			<real>574950746.44493306</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>3A9DEC77-2CC8-4CCB-B820-49BC64B40F3D</string>
+		</dict>
+		<key>3EE4E0EC-6221-4103-BB2A-6A85F53208FA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3EE4E0EC-6221-4103-BB2A-6A85F53208FA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575052137.61787295</real>
+			<key>timeStoppedRecording</key>
+			<real>575052137.84541094</real>
+			<key>title</key>
+			<string>Clean TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>3EE4E0EC-6221-4103-BB2A-6A85F53208FA</string>
+		</dict>
+		<key>41FBEA8E-458F-4658-B2EE-98437C59BE70</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>41FBEA8E-458F-4658-B2EE-98437C59BE70.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059907.97505605</real>
+			<key>timeStoppedRecording</key>
+			<real>575059908.75299299</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>41FBEA8E-458F-4658-B2EE-98437C59BE70</string>
+		</dict>
+		<key>48E1B648-1138-485A-9A13-7D463DFE3ACA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>48E1B648-1138-485A-9A13-7D463DFE3ACA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575058609.45775402</real>
+			<key>timeStoppedRecording</key>
+			<real>575058613.28570795</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>48E1B648-1138-485A-9A13-7D463DFE3ACA</string>
+		</dict>
+		<key>49809443-BFFC-48EF-98DF-5A20BF8D3343</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>49809443-BFFC-48EF-98DF-5A20BF8D3343.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575052096.56388295</real>
+			<key>timeStoppedRecording</key>
+			<real>575052097.30106795</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>49809443-BFFC-48EF-98DF-5A20BF8D3343</string>
+		</dict>
+		<key>498EBD78-4C57-4153-B6D0-C50F45BDA208</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>498EBD78-4C57-4153-B6D0-C50F45BDA208.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575047859.58945298</real>
+			<key>timeStoppedRecording</key>
+			<real>575047860.33675206</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>498EBD78-4C57-4153-B6D0-C50F45BDA208</string>
+		</dict>
+		<key>499398AC-56D2-427A-A4E4-3BD5D7F2AC8E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>499398AC-56D2-427A-A4E4-3BD5D7F2AC8E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575047995.66679704</real>
+			<key>timeStoppedRecording</key>
+			<real>575047996.31482303</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>499398AC-56D2-427A-A4E4-3BD5D7F2AC8E</string>
+		</dict>
+		<key>49B30320-7C74-497C-A636-BD3C6231C478</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>49B30320-7C74-497C-A636-BD3C6231C478.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059640.74624896</real>
+			<key>timeStoppedRecording</key>
+			<real>575059641.10663998</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>49B30320-7C74-497C-A636-BD3C6231C478</string>
+		</dict>
+		<key>4E0B092C-D9BF-42E3-BCE6-8674C75C3D34</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4E0B092C-D9BF-42E3-BCE6-8674C75C3D34.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575052212.65742195</real>
+			<key>timeStoppedRecording</key>
+			<real>575052224.61976004</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>4E0B092C-D9BF-42E3-BCE6-8674C75C3D34</string>
+		</dict>
+		<key>5078E791-37AD-47DE-BD29-D23D2DCC2ECA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5078E791-37AD-47DE-BD29-D23D2DCC2ECA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575047985.79449904</real>
+			<key>timeStoppedRecording</key>
+			<real>575047986.59177697</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>5078E791-37AD-47DE-BD29-D23D2DCC2ECA</string>
+		</dict>
+		<key>52425AE0-8CFE-4309-97E5-638DBC99E0B8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>52425AE0-8CFE-4309-97E5-638DBC99E0B8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575044169.54355395</real>
+			<key>timeStoppedRecording</key>
+			<real>575044172.58441496</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>52425AE0-8CFE-4309-97E5-638DBC99E0B8</string>
+		</dict>
+		<key>57B4570F-63FE-4E88-9A07-1C481BD4B9C4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>57B4570F-63FE-4E88-9A07-1C481BD4B9C4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575048743.53024697</real>
+			<key>timeStoppedRecording</key>
+			<real>575048743.93078697</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>57B4570F-63FE-4E88-9A07-1C481BD4B9C4</string>
+		</dict>
+		<key>598E903E-A242-43C7-80CA-D0F9CAF245F3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>598E903E-A242-43C7-80CA-D0F9CAF245F3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575009948.93499005</real>
+			<key>timeStoppedRecording</key>
+			<real>575009951.34762204</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>598E903E-A242-43C7-80CA-D0F9CAF245F3</string>
+		</dict>
+		<key>5AB56D16-D5A6-4518-A6D0-2BDDAC3DF378</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5AB56D16-D5A6-4518-A6D0-2BDDAC3DF378.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575047804.86289406</real>
+			<key>timeStoppedRecording</key>
+			<real>575047806.82266295</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>5AB56D16-D5A6-4518-A6D0-2BDDAC3DF378</string>
+		</dict>
+		<key>5C33271F-AB56-4B9D-9D36-C0B8E16BC689</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5C33271F-AB56-4B9D-9D36-C0B8E16BC689.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575060053.41131306</real>
+			<key>timeStoppedRecording</key>
+			<real>575060055.32205796</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>5C33271F-AB56-4B9D-9D36-C0B8E16BC689</string>
+		</dict>
+		<key>5D5451FD-3EA8-41C4-8B19-2E7DB9642551</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5D5451FD-3EA8-41C4-8B19-2E7DB9642551.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575048050.56559002</real>
+			<key>timeStoppedRecording</key>
+			<real>575048051.50959206</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>5D5451FD-3EA8-41C4-8B19-2E7DB9642551</string>
+		</dict>
+		<key>5DA81B5C-5025-4416-9FCD-40ECB1F8486B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5DA81B5C-5025-4416-9FCD-40ECB1F8486B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059927.79777706</real>
+			<key>timeStoppedRecording</key>
+			<real>575059928.60024297</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>5DA81B5C-5025-4416-9FCD-40ECB1F8486B</string>
+		</dict>
+		<key>63801563-4FDB-4496-B1F1-B75E5E35B9C7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>63801563-4FDB-4496-B1F1-B75E5E35B9C7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575024848.67440903</real>
+			<key>timeStoppedRecording</key>
+			<real>575024850.87400305</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>63801563-4FDB-4496-B1F1-B75E5E35B9C7</string>
+		</dict>
+		<key>63A109D1-B8A0-44B4-9154-C6ED9AD5FC2D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>63A109D1-B8A0-44B4-9154-C6ED9AD5FC2D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575010128.46888399</real>
+			<key>timeStoppedRecording</key>
+			<real>575010129.05901003</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>63A109D1-B8A0-44B4-9154-C6ED9AD5FC2D</string>
+		</dict>
+		<key>644787C2-71EB-4DB3-8D9A-02DE3D102475</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>644787C2-71EB-4DB3-8D9A-02DE3D102475.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059403.75469995</real>
+			<key>timeStoppedRecording</key>
+			<real>575059404.427477</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>644787C2-71EB-4DB3-8D9A-02DE3D102475</string>
+		</dict>
+		<key>659308F6-3A25-4F02-946F-ADD294E2C408</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>659308F6-3A25-4F02-946F-ADD294E2C408.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575053063.42355204</real>
+			<key>timeStoppedRecording</key>
+			<real>575053064.00198996</real>
+			<key>title</key>
+			<string>Clean TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>659308F6-3A25-4F02-946F-ADD294E2C408</string>
+		</dict>
+		<key>66DAAF55-9FE4-465D-A4C0-8D999F921E5A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>66DAAF55-9FE4-465D-A4C0-8D999F921E5A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059221.65187502</real>
+			<key>timeStoppedRecording</key>
+			<real>575059222.01608801</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>66DAAF55-9FE4-465D-A4C0-8D999F921E5A</string>
+		</dict>
+		<key>6915761F-DE3B-4645-82B5-122F95784AF5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6915761F-DE3B-4645-82B5-122F95784AF5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059740.17791295</real>
+			<key>timeStoppedRecording</key>
+			<real>575059742.65879905</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>6915761F-DE3B-4645-82B5-122F95784AF5</string>
+		</dict>
+		<key>69F4216D-B49C-4CC5-A18E-BB5407C30612</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>69F4216D-B49C-4CC5-A18E-BB5407C30612.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575060078.73355401</real>
+			<key>timeStoppedRecording</key>
+			<real>575060081.29545903</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>69F4216D-B49C-4CC5-A18E-BB5407C30612</string>
+		</dict>
+		<key>69FA8586-DE9E-485B-8112-714BDF559654</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>69FA8586-DE9E-485B-8112-714BDF559654.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575058622.16977</real>
+			<key>timeStoppedRecording</key>
+			<real>575058622.64449096</real>
+			<key>title</key>
+			<string>Clean TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>69FA8586-DE9E-485B-8112-714BDF559654</string>
+		</dict>
+		<key>6CE77283-1F7E-44BA-A836-8923250A6E26</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6CE77283-1F7E-44BA-A836-8923250A6E26.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575047971.63275504</real>
+			<key>timeStoppedRecording</key>
+			<real>575047972.82489395</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>6CE77283-1F7E-44BA-A836-8923250A6E26</string>
+		</dict>
+		<key>6E345723-E156-4634-A55D-28327AC06A14</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6E345723-E156-4634-A55D-28327AC06A14.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575025396.33140099</real>
+			<key>timeStoppedRecording</key>
+			<real>575025396.60162103</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>6E345723-E156-4634-A55D-28327AC06A14</string>
+		</dict>
+		<key>6EA9FFAF-DBF7-4EFE-BFFF-CBCEFB775BA2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6EA9FFAF-DBF7-4EFE-BFFF-CBCEFB775BA2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575048174.66089702</real>
+			<key>timeStoppedRecording</key>
+			<real>575048178.28123605</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>6EA9FFAF-DBF7-4EFE-BFFF-CBCEFB775BA2</string>
+		</dict>
+		<key>708AF451-CBA4-4A05-8178-0F3BE87EF49B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>708AF451-CBA4-4A05-8178-0F3BE87EF49B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575053051.33941102</real>
+			<key>timeStoppedRecording</key>
+			<real>575053052.89476502</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>708AF451-CBA4-4A05-8178-0F3BE87EF49B</string>
+		</dict>
+		<key>70AEC430-C84A-4511-A475-362347C1A18C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>70AEC430-C84A-4511-A475-362347C1A18C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575048735.14755499</real>
+			<key>timeStoppedRecording</key>
+			<real>575048737.53931904</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>70AEC430-C84A-4511-A475-362347C1A18C</string>
+		</dict>
+		<key>741E4CA5-4A02-4B28-839C-2BF742F86EF3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>741E4CA5-4A02-4B28-839C-2BF742F86EF3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575058539.19128895</real>
+			<key>timeStoppedRecording</key>
+			<real>575058540.839046</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>741E4CA5-4A02-4B28-839C-2BF742F86EF3</string>
+		</dict>
+		<key>76455FBA-C148-4565-ADA8-93C9238915A7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>76455FBA-C148-4565-ADA8-93C9238915A7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575052089.100371</real>
+			<key>timeStoppedRecording</key>
+			<real>575052089.61918294</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>76455FBA-C148-4565-ADA8-93C9238915A7</string>
+		</dict>
+		<key>7FF94835-4246-4D41-9410-52EA0E33C5A9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7FF94835-4246-4D41-9410-52EA0E33C5A9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575060031.43439496</real>
+			<key>timeStoppedRecording</key>
+			<real>575060046.66471696</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>7FF94835-4246-4D41-9410-52EA0E33C5A9</string>
+		</dict>
+		<key>814AA680-F1C8-493A-ADBC-845E6DF0E7DE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>814AA680-F1C8-493A-ADBC-845E6DF0E7DE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575048067.30276203</real>
+			<key>timeStoppedRecording</key>
+			<real>575048069.66938996</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>814AA680-F1C8-493A-ADBC-845E6DF0E7DE</string>
+		</dict>
+		<key>82F7AD40-9034-412E-B964-6ADD163810F3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>82F7AD40-9034-412E-B964-6ADD163810F3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575047902.01547897</real>
+			<key>timeStoppedRecording</key>
+			<real>575047902.22214305</real>
+			<key>title</key>
+			<string>Clean TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>82F7AD40-9034-412E-B964-6ADD163810F3</string>
+		</dict>
+		<key>83281A7A-112C-4CFF-9A94-321F5D4AF827</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>83281A7A-112C-4CFF-9A94-321F5D4AF827.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575052103.17890704</real>
+			<key>timeStoppedRecording</key>
+			<real>575052107.40225005</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>83281A7A-112C-4CFF-9A94-321F5D4AF827</string>
+		</dict>
+		<key>8542D8AC-53C8-4AB7-BB85-EBE7B8936B92</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8542D8AC-53C8-4AB7-BB85-EBE7B8936B92.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575047903.55703795</real>
+			<key>timeStoppedRecording</key>
+			<real>575047914.18233299</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>8542D8AC-53C8-4AB7-BB85-EBE7B8936B92</string>
+		</dict>
+		<key>861E0888-1CAB-46BB-A1D5-606C8670D7A3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>861E0888-1CAB-46BB-A1D5-606C8670D7A3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575058975.88012505</real>
+			<key>timeStoppedRecording</key>
+			<real>575058978.39923501</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>861E0888-1CAB-46BB-A1D5-606C8670D7A3</string>
+		</dict>
+		<key>90319E7A-D58A-4670-A71C-D80D8E29035A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>90319E7A-D58A-4670-A71C-D80D8E29035A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Analyze TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575025403.07381499</real>
+			<key>timeStoppedRecording</key>
+			<real>575025405.54450095</real>
+			<key>title</key>
+			<string>Analyze TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>90319E7A-D58A-4670-A71C-D80D8E29035A</string>
+		</dict>
+		<key>9119F7EA-045D-4909-BF9A-1405C4C02C06</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9119F7EA-045D-4909-BF9A-1405C4C02C06.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575010101.03030598</real>
+			<key>timeStoppedRecording</key>
+			<real>575010104.45134604</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>9119F7EA-045D-4909-BF9A-1405C4C02C06</string>
+		</dict>
+		<key>9464FDC0-F416-4B62-89D9-14B023A40A65</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9464FDC0-F416-4B62-89D9-14B023A40A65.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575047895.27347898</real>
+			<key>timeStoppedRecording</key>
+			<real>575047895.69716001</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>9464FDC0-F416-4B62-89D9-14B023A40A65</string>
+		</dict>
+		<key>94A8CA49-CF1F-4519-8D72-14E6D182E9BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>94A8CA49-CF1F-4519-8D72-14E6D182E9BE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575024802.25880206</real>
+			<key>timeStoppedRecording</key>
+			<real>575024803.10883701</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>94A8CA49-CF1F-4519-8D72-14E6D182E9BE</string>
+		</dict>
+		<key>974A8E0D-5804-48A3-924D-98940BF22BC3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>974A8E0D-5804-48A3-924D-98940BF22BC3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059519.45618904</real>
+			<key>timeStoppedRecording</key>
+			<real>575059520.52624202</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>974A8E0D-5804-48A3-924D-98940BF22BC3</string>
+		</dict>
+		<key>97A28F61-7FF3-48A5-80D1-43050A6E9A99</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>97A28F61-7FF3-48A5-80D1-43050A6E9A99.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575024970.15305698</real>
+			<key>timeStoppedRecording</key>
+			<real>575024970.83525395</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>97A28F61-7FF3-48A5-80D1-43050A6E9A99</string>
+		</dict>
+		<key>980DCB20-EB13-4146-BBE8-D1396F93D64C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>980DCB20-EB13-4146-BBE8-D1396F93D64C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575060029.70471299</real>
+			<key>timeStoppedRecording</key>
+			<real>575060029.95085204</real>
+			<key>title</key>
+			<string>Clean TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>980DCB20-EB13-4146-BBE8-D1396F93D64C</string>
+		</dict>
+		<key>98B85ADD-4A7E-473E-B4E8-879D0FBFB7CC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>98B85ADD-4A7E-473E-B4E8-879D0FBFB7CC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575058994.66600096</real>
+			<key>timeStoppedRecording</key>
+			<real>575058995.49431598</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>98B85ADD-4A7E-473E-B4E8-879D0FBFB7CC</string>
+		</dict>
+		<key>9B097239-20A8-443A-9998-E72DC5AC7CA3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9B097239-20A8-443A-9998-E72DC5AC7CA3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575025406.63736796</real>
+			<key>timeStoppedRecording</key>
+			<real>575025407.99760497</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>9B097239-20A8-443A-9998-E72DC5AC7CA3</string>
+		</dict>
+		<key>9CAF49D8-0617-476C-A305-B6B243930955</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9CAF49D8-0617-476C-A305-B6B243930955.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575048787.33574402</real>
+			<key>timeStoppedRecording</key>
+			<real>575048788.029217</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>9CAF49D8-0617-476C-A305-B6B243930955</string>
+		</dict>
+		<key>9D45D1BC-0A39-4FE0-BC40-B66736E74742</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9D45D1BC-0A39-4FE0-BC40-B66736E74742.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059201.954638</real>
+			<key>timeStoppedRecording</key>
+			<real>575059204.29369605</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>9D45D1BC-0A39-4FE0-BC40-B66736E74742</string>
+		</dict>
+		<key>A3E8F48C-3A8F-44CC-A3DD-4C230CAAFF60</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A3E8F48C-3A8F-44CC-A3DD-4C230CAAFF60.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059399.00357902</real>
+			<key>timeStoppedRecording</key>
+			<real>575059402.38976097</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>A3E8F48C-3A8F-44CC-A3DD-4C230CAAFF60</string>
+		</dict>
+		<key>A7F1C306-A71B-4E5A-A2C3-31B9E03D784B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A7F1C306-A71B-4E5A-A2C3-31B9E03D784B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575060086.90951598</real>
+			<key>timeStoppedRecording</key>
+			<real>575060092.45305204</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>A7F1C306-A71B-4E5A-A2C3-31B9E03D784B</string>
+		</dict>
+		<key>A938C338-0A46-435F-AFB1-5EB47BCEAD10</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A938C338-0A46-435F-AFB1-5EB47BCEAD10.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059612.66684103</real>
+			<key>timeStoppedRecording</key>
+			<real>575059615.05060506</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>A938C338-0A46-435F-AFB1-5EB47BCEAD10</string>
+		</dict>
+		<key>AB545428-F00A-4410-A0A6-CAB9BCEFA445</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AB545428-F00A-4410-A0A6-CAB9BCEFA445.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575048866.41614294</real>
+			<key>timeStoppedRecording</key>
+			<real>575048866.92038798</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>AB545428-F00A-4410-A0A6-CAB9BCEFA445</string>
+		</dict>
+		<key>B4C805A1-DC45-4487-96EB-08C9A4E1B6A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B4C805A1-DC45-4487-96EB-08C9A4E1B6A2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575052050.90085495</real>
+			<key>timeStoppedRecording</key>
+			<real>575052051.40829396</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>B4C805A1-DC45-4487-96EB-08C9A4E1B6A2</string>
+		</dict>
+		<key>B5CDA50F-E4EE-4B51-9710-E234FAE8934F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B5CDA50F-E4EE-4B51-9710-E234FAE8934F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575048039.68429196</real>
+			<key>timeStoppedRecording</key>
+			<real>575048043.78008795</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>B5CDA50F-E4EE-4B51-9710-E234FAE8934F</string>
+		</dict>
+		<key>B6889A81-5F24-4F08-AED4-0E9F58195F64</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B6889A81-5F24-4F08-AED4-0E9F58195F64.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575052170.62328005</real>
+			<key>timeStoppedRecording</key>
+			<real>575052173.80196702</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>B6889A81-5F24-4F08-AED4-0E9F58195F64</string>
+		</dict>
+		<key>BCA13687-FC1D-4E27-B02F-B5A2B896260D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BCA13687-FC1D-4E27-B02F-B5A2B896260D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059982.83818996</real>
+			<key>timeStoppedRecording</key>
+			<real>575059985.16368103</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>BCA13687-FC1D-4E27-B02F-B5A2B896260D</string>
+		</dict>
+		<key>BE87A48C-3970-4DD6-B5FB-1E4E53896CCA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BE87A48C-3970-4DD6-B5FB-1E4E53896CCA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575060021.163885</real>
+			<key>timeStoppedRecording</key>
+			<real>575060023.26774502</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>BE87A48C-3970-4DD6-B5FB-1E4E53896CCA</string>
+		</dict>
+		<key>BE8EEEEF-3444-499E-B356-9B1045B8836B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BE8EEEEF-3444-499E-B356-9B1045B8836B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059527.17090404</real>
+			<key>timeStoppedRecording</key>
+			<real>575059527.56031203</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>BE8EEEEF-3444-499E-B356-9B1045B8836B</string>
+		</dict>
+		<key>BF281328-65DB-45F4-83A4-82AD29A75565</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BF281328-65DB-45F4-83A4-82AD29A75565.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059388.15045595</real>
+			<key>timeStoppedRecording</key>
+			<real>575059397.08351004</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>BF281328-65DB-45F4-83A4-82AD29A75565</string>
+		</dict>
+		<key>CA16BB79-F7ED-4595-B848-55DEDD12846F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CA16BB79-F7ED-4595-B848-55DEDD12846F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575024786.29347801</real>
+			<key>timeStoppedRecording</key>
+			<real>575024788.18280995</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>CA16BB79-F7ED-4595-B848-55DEDD12846F</string>
+		</dict>
+		<key>CC22E90F-599B-4FEC-AD52-F9BA74469F37</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CC22E90F-599B-4FEC-AD52-F9BA74469F37.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059237.95668995</real>
+			<key>timeStoppedRecording</key>
+			<real>575059238.42216206</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>CC22E90F-599B-4FEC-AD52-F9BA74469F37</string>
+		</dict>
+		<key>CC76332A-1FA6-4772-BEF8-15DC182AC15D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CC76332A-1FA6-4772-BEF8-15DC182AC15D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575047865.16228104</real>
+			<key>timeStoppedRecording</key>
+			<real>575047866.14693904</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>CC76332A-1FA6-4772-BEF8-15DC182AC15D</string>
+		</dict>
+		<key>D0E21A82-AC2E-415F-84C6-C4A2EEC1E74B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D0E21A82-AC2E-415F-84C6-C4A2EEC1E74B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575025006.39454997</real>
+			<key>timeStoppedRecording</key>
+			<real>575025010.54294002</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>D0E21A82-AC2E-415F-84C6-C4A2EEC1E74B</string>
+		</dict>
+		<key>D28098CD-81EA-4C45-9E4B-C634974B80D4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D28098CD-81EA-4C45-9E4B-C634974B80D4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059497.97347605</real>
+			<key>timeStoppedRecording</key>
+			<real>575059498.36214602</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>D28098CD-81EA-4C45-9E4B-C634974B80D4</string>
+		</dict>
+		<key>D4B174CD-1E21-443B-B269-B1A6AC939226</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D4B174CD-1E21-443B-B269-B1A6AC939226.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575047845.83764994</real>
+			<key>timeStoppedRecording</key>
+			<real>575047846.95727897</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>D4B174CD-1E21-443B-B269-B1A6AC939226</string>
+		</dict>
+		<key>DC6FBAD9-168E-4987-A470-D541A7C35780</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DC6FBAD9-168E-4987-A470-D541A7C35780.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575010227.38180697</real>
+			<key>timeStoppedRecording</key>
+			<real>575010227.80848598</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>DC6FBAD9-168E-4987-A470-D541A7C35780</string>
+		</dict>
+		<key>DE5C3936-1D22-4A74-9166-2E7DC3DDD682</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DE5C3936-1D22-4A74-9166-2E7DC3DDD682.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575047880.03763294</real>
+			<key>timeStoppedRecording</key>
+			<real>575047884.04055905</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>DE5C3936-1D22-4A74-9166-2E7DC3DDD682</string>
+		</dict>
+		<key>DF8F413A-5C8A-4D36-87CA-7683F3B35C29</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DF8F413A-5C8A-4D36-87CA-7683F3B35C29.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575025420.71548104</real>
+			<key>timeStoppedRecording</key>
+			<real>575025433.08240402</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>DF8F413A-5C8A-4D36-87CA-7683F3B35C29</string>
+		</dict>
+		<key>E1334665-F2E5-45A3-A5F5-AAD6B9D60925</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E1334665-F2E5-45A3-A5F5-AAD6B9D60925.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059279.04027605</real>
+			<key>timeStoppedRecording</key>
+			<real>575059279.60746205</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>E1334665-F2E5-45A3-A5F5-AAD6B9D60925</string>
+		</dict>
+		<key>E4C47CA9-3EBC-4BE4-8C26-6963ECB95125</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E4C47CA9-3EBC-4BE4-8C26-6963ECB95125.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575048291.03424203</real>
+			<key>timeStoppedRecording</key>
+			<real>575048294.57499099</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>E4C47CA9-3EBC-4BE4-8C26-6963ECB95125</string>
+		</dict>
+		<key>E79C9D81-D0C0-427F-9EEA-8DAEDC140299</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E79C9D81-D0C0-427F-9EEA-8DAEDC140299.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059542.85157204</real>
+			<key>timeStoppedRecording</key>
+			<real>575059543.45469296</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>E79C9D81-D0C0-427F-9EEA-8DAEDC140299</string>
+		</dict>
+		<key>E8B66D9B-8863-46C0-9D5F-30407B067DB1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E8B66D9B-8863-46C0-9D5F-30407B067DB1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575058564.24283099</real>
+			<key>timeStoppedRecording</key>
+			<real>575058564.67636502</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>E8B66D9B-8863-46C0-9D5F-30407B067DB1</string>
+		</dict>
+		<key>EB6E6DE2-DE86-4A3A-BB43-90E5D66A7499</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EB6E6DE2-DE86-4A3A-BB43-90E5D66A7499.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575047835.22757006</real>
+			<key>timeStoppedRecording</key>
+			<real>575047835.87978804</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>EB6E6DE2-DE86-4A3A-BB43-90E5D66A7499</string>
+		</dict>
+		<key>EBC8C3EF-EE06-41A3-B95E-870DD3FBD8D9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EBC8C3EF-EE06-41A3-B95E-870DD3FBD8D9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575059462.96812296</real>
+			<key>timeStoppedRecording</key>
+			<real>575059468.75519395</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>EBC8C3EF-EE06-41A3-B95E-870DD3FBD8D9</string>
+		</dict>
+		<key>F3F23042-EA86-4C16-AFE1-8F7D4C52D57E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F3F23042-EA86-4C16-AFE1-8F7D4C52D57E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575048011.07123995</real>
+			<key>timeStoppedRecording</key>
+			<real>575048011.44726098</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>F3F23042-EA86-4C16-AFE1-8F7D4C52D57E</string>
+		</dict>
+		<key>F7537FE3-2D6D-41B3-99E7-8AEF35ACF958</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F7537FE3-2D6D-41B3-99E7-8AEF35ACF958.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575048083.75785804</real>
+			<key>timeStoppedRecording</key>
+			<real>575048086.34141898</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>F7537FE3-2D6D-41B3-99E7-8AEF35ACF958</string>
+		</dict>
+		<key>F849D7A1-5974-4109-B87D-8228B6E553D6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F849D7A1-5974-4109-B87D-8228B6E553D6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575048209.087394</real>
+			<key>timeStoppedRecording</key>
+			<real>575048212.53703403</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>F849D7A1-5974-4109-B87D-8228B6E553D6</string>
+		</dict>
+		<key>FC69EBAE-9492-4520-A5A7-10A299FCDDF9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FC69EBAE-9492-4520-A5A7-10A299FCDDF9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575043998.56880403</real>
+			<key>timeStoppedRecording</key>
+			<real>575043999.245399</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>FC69EBAE-9492-4520-A5A7-10A299FCDDF9</string>
+		</dict>
+		<key>FECDBFC6-A943-48A1-97B9-FD3F794FD4A9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FECDBFC6-A943-48A1-97B9-FD3F794FD4A9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575024939.57183695</real>
+			<key>timeStoppedRecording</key>
+			<real>575024940.98661804</real>
+			<key>title</key>
+			<string>Build TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>FECDBFC6-A943-48A1-97B9-FD3F794FD4A9</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

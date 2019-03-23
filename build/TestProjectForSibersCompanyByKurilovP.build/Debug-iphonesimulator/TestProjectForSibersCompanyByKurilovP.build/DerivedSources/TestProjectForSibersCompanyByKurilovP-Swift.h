@@ -196,8 +196,24 @@ SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP11AppDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class NSBundle;
 @class NSCoder;
+
+SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP11DefaultCell")
+@interface DefaultCell : UITableViewCell
+- (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+
+
+@interface UITextField (SWIFT_EXTENSION(TestProjectForSibersCompanyByKurilovP))
+- (void)clearWithSender:(id _Nonnull)sender;
+@end
+
+
+
+@class NSBundle;
 
 SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP14ViewController")
 @interface ViewController : UIViewController

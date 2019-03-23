@@ -1,0 +1,415 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Character"
+provides-nominal:
+- "37TestProjectForSibersCompanyByKurilovP9CharacterV"
+- "37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO"
+provides-member:
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", ""]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- !private "Array"
+- "AssignmentPrecedence"
+- "Character"
+- "Codable"
+- "CodingKey"
+- "Decoder"
+- "Int"
+- "Location"
+- "Origin"
+- "String"
+- "StringLiteralType"
+- !private "_findStringSwitchCase"
+- !private "~="
+depends-member:
+- ["SK", "init"]
+- ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "init"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "CodingKey"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "CodingKeys"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "Decoder"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "Int"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "Location"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "Origin"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "String"]
+- !private ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "_findStringSwitchCase"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "created"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "deinit"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "encode"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "episodes"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "gender"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "id"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "image"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "init"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "location"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "name"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "origin"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "species"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "status"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "type"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "url"]
+- ["s9CodingKeyP", "RawValue"]
+- ["s9CodingKeyP", ""]
+- ["s9CodingKeyP", "_Default_RawValue"]
+- !private ["s9CodingKeyP", "_findStringSwitchCase"]
+- !private ["s9CodingKeyP", "created"]
+- ["s9CodingKeyP", "debugDescription"]
+- ["s9CodingKeyP", "description"]
+- !private ["s9CodingKeyP", "episodes"]
+- !private ["s9CodingKeyP", "gender"]
+- ["s9CodingKeyP", "hash"]
+- ["s9CodingKeyP", "hashValue"]
+- !private ["s9CodingKeyP", "id"]
+- !private ["s9CodingKeyP", "image"]
+- ["s9CodingKeyP", "init"]
+- !private ["s9CodingKeyP", "init"]
+- ["s9CodingKeyP", "intValue"]
+- !private ["s9CodingKeyP", "location"]
+- !private ["s9CodingKeyP", "name"]
+- !private ["s9CodingKeyP", "origin"]
+- ["s9CodingKeyP", "rawValue"]
+- !private ["s9CodingKeyP", "species"]
+- !private ["s9CodingKeyP", "status"]
+- ["s9CodingKeyP", "stringValue"]
+- !private ["s9CodingKeyP", "type"]
+- !private ["s9CodingKeyP", "url"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "RawValue"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "_Default_RawValue"]
+- !private ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "_findStringSwitchCase"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "created"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "debugDescription"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "deinit"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "description"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "episodes"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "gender"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "hash"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "hashValue"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "id"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "image"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "init"]
+- !private ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "init"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "intValue"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "location"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "name"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "origin"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "rawValue"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "species"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "status"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "stringValue"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "type"]
+- ["37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO", "url"]
+- ["Sl", "init"]
+- ["Sl", "init"]
+- ["SL", "init"]
+- ["SL", "init"]
+- ["s28CustomDebugStringConvertibleP", "RawValue"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_Default_RawValue"]
+- !private ["s28CustomDebugStringConvertibleP", "_findStringSwitchCase"]
+- !private ["s28CustomDebugStringConvertibleP", "created"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- !private ["s28CustomDebugStringConvertibleP", "episodes"]
+- !private ["s28CustomDebugStringConvertibleP", "gender"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- !private ["s28CustomDebugStringConvertibleP", "id"]
+- !private ["s28CustomDebugStringConvertibleP", "image"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "intValue"]
+- !private ["s28CustomDebugStringConvertibleP", "location"]
+- !private ["s28CustomDebugStringConvertibleP", "name"]
+- !private ["s28CustomDebugStringConvertibleP", "origin"]
+- ["s28CustomDebugStringConvertibleP", "rawValue"]
+- !private ["s28CustomDebugStringConvertibleP", "species"]
+- !private ["s28CustomDebugStringConvertibleP", "status"]
+- ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s28CustomDebugStringConvertibleP", "type"]
+- !private ["s28CustomDebugStringConvertibleP", "url"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "RawValue"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_Default_RawValue"]
+- !private ["s23CustomStringConvertibleP", "_findStringSwitchCase"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "created"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "episodes"]
+- !private ["s23CustomStringConvertibleP", "gender"]
+- ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- !private ["s23CustomStringConvertibleP", "id"]
+- !private ["s23CustomStringConvertibleP", "image"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "intValue"]
+- !private ["s23CustomStringConvertibleP", "location"]
+- !private ["s23CustomStringConvertibleP", "name"]
+- !private ["s23CustomStringConvertibleP", "origin"]
+- ["s23CustomStringConvertibleP", "rawValue"]
+- !private ["s23CustomStringConvertibleP", "species"]
+- !private ["s23CustomStringConvertibleP", "status"]
+- ["s23CustomStringConvertibleP", "stringValue"]
+- !private ["s23CustomStringConvertibleP", "type"]
+- !private ["s23CustomStringConvertibleP", "url"]
+- !private ["Se", "CodingKeys"]
+- !private ["Se", "Int"]
+- !private ["Se", "Location"]
+- !private ["Se", "Origin"]
+- !private ["Se", "String"]
+- ["Se", ""]
+- !private ["Se", "_findStringSwitchCase"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "created"]
+- ["Se", "encode"]
+- !private ["Se", "episodes"]
+- !private ["Se", "gender"]
+- !private ["Se", "id"]
+- !private ["Se", "image"]
+- ["Se", "init"]
+- ["Se", "init"]
+- !private ["Se", "location"]
+- !private ["Se", "name"]
+- !private ["Se", "origin"]
+- !private ["Se", "species"]
+- !private ["Se", "status"]
+- !private ["Se", "type"]
+- !private ["Se", "url"]
+- !private ["s7DecoderP", "container"]
+- !private ["SE", "CodingKeys"]
+- !private ["SE", "Int"]
+- !private ["SE", "Location"]
+- !private ["SE", "Origin"]
+- !private ["SE", "String"]
+- ["SE", ""]
+- !private ["SE", "_findStringSwitchCase"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "created"]
+- ["SE", "encode"]
+- !private ["SE", "episodes"]
+- !private ["SE", "gender"]
+- !private ["SE", "id"]
+- !private ["SE", "image"]
+- ["SE", "init"]
+- ["SE", "init"]
+- !private ["SE", "location"]
+- !private ["SE", "name"]
+- !private ["SE", "origin"]
+- !private ["SE", "species"]
+- !private ["SE", "status"]
+- !private ["SE", "type"]
+- !private ["SE", "url"]
+- !private ["s7EncoderP", "container"]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- !private ["SQ", "_findStringSwitchCase"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "created"]
+- ["SQ", "debugDescription"]
+- ["SQ", "description"]
+- !private ["SQ", "episodes"]
+- !private ["SQ", "gender"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "id"]
+- !private ["SQ", "image"]
+- ["SQ", "init"]
+- ["SQ", "init"]
+- ["SQ", "intValue"]
+- !private ["SQ", "location"]
+- !private ["SQ", "name"]
+- !private ["SQ", "origin"]
+- ["SQ", "rawValue"]
+- !private ["SQ", "species"]
+- !private ["SQ", "status"]
+- ["SQ", "stringValue"]
+- !private ["SQ", "type"]
+- !private ["SQ", "url"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- !private ["SH", "_findStringSwitchCase"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "created"]
+- ["SH", "debugDescription"]
+- ["SH", "description"]
+- !private ["SH", "episodes"]
+- !private ["SH", "gender"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "id"]
+- !private ["SH", "image"]
+- ["SH", "init"]
+- ["SH", "init"]
+- ["SH", "intValue"]
+- !private ["SH", "location"]
+- !private ["SH", "name"]
+- !private ["SH", "origin"]
+- ["SH", "rawValue"]
+- !private ["SH", "species"]
+- !private ["SH", "status"]
+- ["SH", "stringValue"]
+- !private ["SH", "type"]
+- !private ["SH", "url"]
+- !private ["s6HasherV", "combine"]
+- !private ["s22KeyedDecodingContainerV", "decodeIfPresent"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decodeIfPresent"]
+- !private ["s22KeyedEncodingContainerV", "encodeIfPresent"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encodeIfPresent"]
+- ["37TestProjectForSibersCompanyByKurilovP8LocationV", "deinit"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["37TestProjectForSibersCompanyByKurilovP6OriginV", "deinit"]
+- ["Sm", "init"]
+- ["Sm", "init"]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- !private ["SY", "_findStringSwitchCase"]
+- !private ["SY", "created"]
+- ["SY", "debugDescription"]
+- ["SY", "description"]
+- !private ["SY", "episodes"]
+- !private ["SY", "gender"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- !private ["SY", "id"]
+- !private ["SY", "image"]
+- ["SY", "init"]
+- !private ["SY", "init"]
+- ["SY", "intValue"]
+- !private ["SY", "location"]
+- !private ["SY", "name"]
+- !private ["SY", "origin"]
+- ["SY", "rawValue"]
+- !private ["SY", "species"]
+- !private ["SY", "status"]
+- ["SY", "stringValue"]
+- !private ["SY", "type"]
+- !private ["SY", "url"]
+- ["ST", "init"]
+- ["ST", "init"]
+- !private ["s12StaticStringV", "init"]
+- !private ["s12StaticStringV", "init"]
+- ["SS", "init"]
+- ["SS", "init"]
+- ["Sy", "init"]
+- ["Sy", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "SK"
+- !private "Sb"
+- "s7CVarArgP"
+- "37TestProjectForSibersCompanyByKurilovP9CharacterV"
+- "s9CodingKeyP"
+- "37TestProjectForSibersCompanyByKurilovP9CharacterV10CodingKeysO"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- !private "s7DecoderP"
+- "SE"
+- !private "s7EncoderP"
+- "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "s6HasherV"
+- !private "s22KeyedDecodingContainerV"
+- !private "s30KeyedDecodingContainerProtocolP"
+- !private "s22KeyedEncodingContainerV"
+- !private "s30KeyedEncodingContainerProtocolP"
+- "37TestProjectForSibersCompanyByKurilovP8LocationV"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "37TestProjectForSibersCompanyByKurilovP6OriginV"
+- "Sm"
+- "SY"
+- "ST"
+- !private "s12StaticStringV"
+- "SS"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "abf5f070eed904fc779fd0d3a69fc706"
