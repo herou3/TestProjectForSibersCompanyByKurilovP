@@ -18,6 +18,7 @@ class CharactersListController: UIViewController {
     private var isSearhBarEmpty: Bool {
         return searchBar.text?.isEmpty ?? true
     }
+    private var hudHelper = HUD()
     
     // MARK: - Init/Deinit CharactersListController
     init(viewModel: CharactersListViewModel) {
@@ -31,6 +32,14 @@ class CharactersListController: UIViewController {
         
         viewModel.callAlertBlock = { [unowned self] titleValue, messageValue in
             Alert.showBasicAlert(on: self, with: titleValue, message: messageValue)
+        }
+        
+        viewModel.startActivityIndicatorBlock = { [unowned self]  in
+            self.hudHelper.showActivityIndicatory(view: self.view)
+        }
+        
+        viewModel.completeActivityIndicatorBlock = { [unowned self]  in
+            self.hudHelper.hideActivityIndicator(view: self.view)
         }
     }
     

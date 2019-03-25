@@ -233,6 +233,13 @@ SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP23CharacterImageTableCel
 @end
 
 
+SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP18CharacterImageView")
+@interface CharacterImageView : UIView
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP18CharacterTableCell")
 @interface CharacterTableCell : DefaultCell
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER;
@@ -240,6 +247,13 @@ SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP18CharacterTableCell")
 @end
 
 @class NSBundle;
+
+SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP25CharactersImageController")
+@interface CharactersImageController : UIViewController
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil SWIFT_UNAVAILABLE;
+@end
+
 
 SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP24CharactersListController")
 @interface CharactersListController : UIViewController
@@ -301,6 +315,7 @@ SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP26СharacterDetailContro
 @interface СharacterDetailController (SWIFT_EXTENSION(TestProjectForSibersCompanyByKurilovP)) <UITableViewDataSource, UITableViewDelegate>
 - (NSInteger)numberOfSectionsInTableView:(UITableView * _Nonnull)tableView SWIFT_WARN_UNUSED_RESULT;
 - (NSInteger)tableView:(UITableView * _Nonnull)tableView numberOfRowsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
+- (void)tableView:(UITableView * _Nonnull)tableView didSelectRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
 - (CGFloat)tableView:(UITableView * _Nonnull)tableView heightForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
 - (UITableViewCell * _Nonnull)tableView:(UITableView * _Nonnull)tableView cellForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
 @end

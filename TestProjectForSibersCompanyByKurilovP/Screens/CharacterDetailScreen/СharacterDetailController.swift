@@ -25,6 +25,7 @@ class СharacterDetailController: UIViewController {
         self.characterDetailViewModel?.callAlertBlock = { [unowned self] titleValue, messageValue in
             Alert.showBasicAlert(on: self, with: titleValue, message: messageValue)
         }
+        
         self.characterDetailViewModel?.requestUpdatedBlock = { [unowned self] in
             self.dataTableView.reloadData()
         }
@@ -100,10 +101,19 @@ extension СharacterDetailController: UITableViewDataSource, UITableViewDelegate
         return self.characterDetailViewModel?.numberOfRows ?? 0
     }
     
+    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        
+        let detailCellViewModel = characterDetailViewModel?.detailTableCellViewModel(forIndexPath: indexPath)
+        guard (detailCellViewModel as? CharacterImageCellViewModel) != nil else {
+            return
+        }
+        characterDetailViewModel?.selectRow(atIndexPath: indexPath)
+    }
+    
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
         
         let detailCellViewModel = characterDetailViewModel?.detailTableCellViewModel(forIndexPath: indexPath)
-        guard let viewModel = detailCellViewModel as? CharacterImageCellViewModel else {
+        guard (detailCellViewModel as? CharacterImageCellViewModel) != nil else {
             return Constant.characterDetailCellSizeValue
         }
         

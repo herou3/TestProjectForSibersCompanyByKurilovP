@@ -1,24 +1,30 @@
 ### Swift dependencies file v0 ###
 provides-top-level:
+- "CharacterDetailViewModelDelegate"
 - "DefaultCellType"
 - "CharacterDetailViewModel"
 provides-nominal:
+- "37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelDelegateP"
 - "37TestProjectForSibersCompanyByKurilovP15DefaultCellTypeO"
 - "37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC"
 provides-member:
+- ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelDelegateP", ""]
 - ["37TestProjectForSibersCompanyByKurilovP15DefaultCellTypeO", ""]
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", ""]
 provides-dynamic-lookup:
 depends-top-level:
 - "=="
+- "AnyObject"
 - "AssignmentPrecedence"
 - !private "BooleanLiteralType"
+- "CastingPrecedence"
 - "Character"
 - !private "CharacterDetailCellViewModel"
 - "CharacterDetailTableCellViewModelProtocol"
 - "CharacterDetailViewModel"
+- "CharacterDetailViewModelDelegate"
 - "CharacterDetailViewModelProtocol"
-- !private "CharacterImageCellViewModel"
+- "CharacterImageCellViewModel"
 - "DefaultCellType"
 - "IndexPath"
 - "Int"
@@ -65,6 +71,7 @@ depends-member:
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "Character"]
 - !private ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "CharacterDetailCellViewModel"]
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "CharacterDetailTableCellViewModelProtocol"]
+- ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "CharacterDetailViewModelDelegate"]
 - !private ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "CharacterImageCellViewModel"]
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "IndexPath"]
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "Int"]
@@ -77,6 +84,7 @@ depends-member:
 - !private ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "charactersListViewModels"]
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "curentLocation"]
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "deinit"]
+- ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "delegate"]
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "detailTableCellViewModel"]
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "gender"]
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "id"]
@@ -90,9 +98,13 @@ depends-member:
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "originLocation"]
 - !private ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "print"]
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "requestUpdatedBlock"]
+- ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "selectRow"]
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "species"]
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "status"]
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "type"]
+- ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelDelegateP", "CharacterDetailViewModel"]
+- ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelDelegateP", "CharacterImageCellViewModel"]
+- ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelDelegateP", "charactersListViewModel"]
 - !private ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "CharacterDetailCellViewModel"]
 - !private ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "CharacterImageCellViewModel"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "NetworkRequests"]
@@ -102,6 +114,7 @@ depends-member:
 - !private ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "character"]
 - !private ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "charactersListViewModels"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "curentLocation"]
+- !private ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "delegate"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "detailTableCellViewModel"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "gender"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "id"]
@@ -114,6 +127,7 @@ depends-member:
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "originLocation"]
 - !private ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "print"]
 - !private ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "requestUpdatedBlock"]
+- ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "selectRow"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "species"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "status"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "type"]
@@ -372,6 +386,7 @@ depends-nominal:
 - !private "37TestProjectForSibersCompanyByKurilovP28CharacterDetailCellViewModelC"
 - !private "37TestProjectForSibersCompanyByKurilovP41CharacterDetailTableCellViewModelProtocolP"
 - "37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC"
+- "37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelDelegateP"
 - "37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP"
 - !private "37TestProjectForSibersCompanyByKurilovP27CharacterImageCellViewModelC"
 - !private "Sl"
@@ -459,4 +474,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "a20c6eb3ddf6f8ffee416c21b887751e"
+interface-hash: "80e035ad7ff0610a789dc5251936a585"

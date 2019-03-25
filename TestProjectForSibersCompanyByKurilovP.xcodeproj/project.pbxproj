@@ -44,6 +44,11 @@
 		AB00FEDC2248AF8500C17B78 /* СharacterDetailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB00FEDB2248AF8500C17B78 /* СharacterDetailController.swift */; };
 		AB00FEE12248D84A00C17B78 /* CharacterImageTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB00FEE02248D84A00C17B78 /* CharacterImageTableCell.swift */; };
 		AB00FEE32248DBE500C17B78 /* CharacterImageCellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB00FEE22248DBE500C17B78 /* CharacterImageCellViewModel.swift */; };
+		AB00FEE52248F2DA00C17B78 /* CharactersImageViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB00FEE42248F2DA00C17B78 /* CharactersImageViewModel.swift */; };
+		AB00FEE92248F47D00C17B78 /* CharacterImageViewModelProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB00FEE82248F47D00C17B78 /* CharacterImageViewModelProtocol.swift */; };
+		AB00FEEB2249047500C17B78 /* CharactersImageController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB00FEEA2249047500C17B78 /* CharactersImageController.swift */; };
+		AB00FEED2249068500C17B78 /* CharacterImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB00FEEC2249068500C17B78 /* CharacterImageView.swift */; };
+		AB00FEEF2249369200C17B78 /* HudHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB00FEEE2249369200C17B78 /* HudHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -86,6 +91,11 @@
 		AB00FEDB2248AF8500C17B78 /* СharacterDetailController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "СharacterDetailController.swift"; sourceTree = "<group>"; };
 		AB00FEE02248D84A00C17B78 /* CharacterImageTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterImageTableCell.swift; sourceTree = "<group>"; };
 		AB00FEE22248DBE500C17B78 /* CharacterImageCellViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterImageCellViewModel.swift; sourceTree = "<group>"; };
+		AB00FEE42248F2DA00C17B78 /* CharactersImageViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharactersImageViewModel.swift; sourceTree = "<group>"; };
+		AB00FEE82248F47D00C17B78 /* CharacterImageViewModelProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterImageViewModelProtocol.swift; sourceTree = "<group>"; };
+		AB00FEEA2249047500C17B78 /* CharactersImageController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharactersImageController.swift; sourceTree = "<group>"; };
+		AB00FEEC2249068500C17B78 /* CharacterImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterImageView.swift; sourceTree = "<group>"; };
+		AB00FEEE2249369200C17B78 /* HudHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HudHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,7 +155,7 @@
 		AB00FE8C2245E25400C17B78 /* Screens */ = {
 			isa = PBXGroup;
 			children = (
-				AB00FE932245E2EA00C17B78 /* ImageCharacterScreen */,
+				AB00FE932245E2EA00C17B78 /* CharacterImageScreen */,
 				AB00FE922245E2D100C17B78 /* CharacterDetailScreen */,
 				AB00FE912245E29800C17B78 /* CharactersListScreen */,
 			);
@@ -159,6 +169,7 @@
 				AB00FEA82246791300C17B78 /* CharactersListTableCellViewModelProtocol.swift */,
 				AB00FEAA22467C6500C17B78 /* CharacterDetailViewModelProtocol.swift */,
 				AB00FEAC2246822300C17B78 /* CharacterDetailTableCellViewModelProtocol.swift */,
+				AB00FEE82248F47D00C17B78 /* CharacterImageViewModelProtocol.swift */,
 			);
 			path = Protocols;
 			sourceTree = "<group>";
@@ -179,6 +190,7 @@
 				AB00FE9E2246596700C17B78 /* Constant.swift */,
 				AB00FEC72247832D00C17B78 /* ReachabilityConnect.swift */,
 				AB00FECF2247C9D000C17B78 /* DiscardableImageCacheItem.swift */,
+				AB00FEEE2249369200C17B78 /* HudHelper.swift */,
 			);
 			path = Helper;
 			sourceTree = "<group>";
@@ -218,11 +230,14 @@
 			path = CharacterDetailScreen;
 			sourceTree = "<group>";
 		};
-		AB00FE932245E2EA00C17B78 /* ImageCharacterScreen */ = {
+		AB00FE932245E2EA00C17B78 /* CharacterImageScreen */ = {
 			isa = PBXGroup;
 			children = (
+				AB00FEE42248F2DA00C17B78 /* CharactersImageViewModel.swift */,
+				AB00FEEC2249068500C17B78 /* CharacterImageView.swift */,
+				AB00FEEA2249047500C17B78 /* CharactersImageController.swift */,
 			);
-			path = ImageCharacterScreen;
+			path = CharacterImageScreen;
 			sourceTree = "<group>";
 		};
 		AB00FEAE2246864D00C17B78 /* Service */ = {
@@ -375,11 +390,14 @@
 				AB00FEDC2248AF8500C17B78 /* СharacterDetailController.swift in Sources */,
 				AB00FEB6224699EF00C17B78 /* Result.swift in Sources */,
 				AB00FEDA2248886800C17B78 /* CharacterDetailTableCell.swift in Sources */,
+				AB00FEEF2249369200C17B78 /* HudHelper.swift in Sources */,
 				AB00FE9D2246591500C17B78 /* DefaultCell.swift in Sources */,
 				AB00FEA92246791300C17B78 /* CharactersListTableCellViewModelProtocol.swift in Sources */,
 				AB00FEE32248DBE500C17B78 /* CharacterImageCellViewModel.swift in Sources */,
+				AB00FEED2249068500C17B78 /* CharacterImageView.swift in Sources */,
 				AB00FEBC2246AF8500C17B78 /* NetworkManager.swift in Sources */,
 				AB00FEBE2246B06400C17B78 /* NetworkRequests.swift in Sources */,
+				AB00FEE52248F2DA00C17B78 /* CharactersImageViewModel.swift in Sources */,
 				AB00FE952245F28700C17B78 /* Info.swift in Sources */,
 				AB00FEA322465A3900C17B78 /* UITextField+ClearButton.swift in Sources */,
 				AB00FE9F2246596700C17B78 /* Constant.swift in Sources */,
@@ -395,10 +413,12 @@
 				AB00FEBA2246AEF300C17B78 /* NetworkManagerError.swift in Sources */,
 				AB00FEAD2246822300C17B78 /* CharacterDetailTableCellViewModelProtocol.swift in Sources */,
 				AB00FE9B22462BCF00C17B78 /* Location.swift in Sources */,
+				AB00FEE92248F47D00C17B78 /* CharacterImageViewModelProtocol.swift in Sources */,
 				AB00FEC4224777AA00C17B78 /* CharactersListViewModel.swift in Sources */,
 				AB00FEA72246788000C17B78 /* CharactersListViewModelProtocol.swift in Sources */,
 				AB00FEB1224686F600C17B78 /* RequestFeeds.swift in Sources */,
 				AB00FED02247C9D000C17B78 /* DiscardableImageCacheItem.swift in Sources */,
+				AB00FEEB2249047500C17B78 /* CharactersImageController.swift in Sources */,
 				AB00FEE12248D84A00C17B78 /* CharacterImageTableCell.swift in Sources */,
 				AB00FED422485D7D00C17B78 /* Alert.swift in Sources */,
 				AB00FEB822469B9400C17B78 /* ErrorResponse.swift in Sources */,

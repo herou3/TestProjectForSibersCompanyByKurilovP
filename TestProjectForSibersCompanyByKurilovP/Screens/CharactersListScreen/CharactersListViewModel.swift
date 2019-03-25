@@ -10,7 +10,7 @@ import Foundation
 
 protocol CharactersListViewModelDelegate: class {
     // MARK: - Protocols methods
-    func charactersListViewModel(_ viewModel: CharactersListViewModel, didSelectCar character: Character)
+    func charactersListViewModel(_ viewModel: CharactersListViewModel, didSelectCharacter character: Character)
 }
 
 class CharactersListViewModel: CharactersListViewModelProtocol {
@@ -20,17 +20,14 @@ class CharactersListViewModel: CharactersListViewModelProtocol {
     private var info: Info?
     private var characters: [Character] = []
     private var updatedCharacters: [Character] = []
-    private var searchingCharacters: [Character] = [] {
-        didSet {
-            
-        }
-    }
+    private var searchingCharacters: [Character] = []
     private var curentPage: Int?
     private var selectedIndexPath: IndexPath?
     private let networRequests: NetworkRequests = NetworkRequests()
     var callAlertBlock: ((_ textTitle: String, _ textMessage: String) -> Void)?
     var requestUpdatedBlock: (() -> Void)?
-    
+    var startActivityIndicatorBlock: (() -> Void)?
+    var completeActivityIndicatorBlock: (() -> Void)?
     
     // MARK: - Init
     init() { }
@@ -43,7 +40,9 @@ class CharactersListViewModel: CharactersListViewModelProtocol {
                             "The Internet connection appears to be offline") // Текста ошибок, по-хорошому, выносятся в файл локализации, но тут, я думаю, что не столь крритично это
             return
         }
+        startActivityIndicatorBlock?()
         networRequests.getFeed(from: .character, use: name, use: page) { (result) in
+            self.completeActivityIndicatorBlock?()
             switch result {
             case .success(let info):
                 guard let networkInfo = info else { return }
@@ -51,6 +50,7 @@ class CharactersListViewModel: CharactersListViewModelProtocol {
                 self.info = networkInfo
                 self.requestUpdatedBlock?()
             case .failure(let error):
+                self.completeActivityIndicatorBlock?()
                 self.callAlertBlock?("Error", error.localizedDescription)
                 print("This is \(error)")
             }
@@ -95,7 +95,8 @@ class CharactersListViewModel: CharactersListViewModelProtocol {
         guard let characters = info?.characters else {
             return
         }
-        delegate?.charactersListViewModel(self, didSelectCar: characters[indexPath.row])
+        self.completeActivityIndicatorBlock?()
+        delegate?.charactersListViewModel(self, didSelectCharacter: characters[indexPath.row])
     }
     
     func titleForHeader(InSection section: Int) -> String {

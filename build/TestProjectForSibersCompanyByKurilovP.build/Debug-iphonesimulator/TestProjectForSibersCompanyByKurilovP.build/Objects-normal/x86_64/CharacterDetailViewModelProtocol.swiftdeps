@@ -28,6 +28,7 @@ depends-member:
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "name"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "numberOfRows"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "originLocation"]
+- ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "selectRow"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "species"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "status"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "type"]
@@ -59,4 +60,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "788e7a6e194f2f60ea873d5dd8368f56"
+interface-hash: "e3970f823b39efae3d88ad567214bc08"

@@ -25,5 +25,5 @@ protocol CharacterDetailViewModelProtocol {
     // MARK: - Protocols methods
     func detailTableCellViewModel(forIndexPath indexPath: IndexPath) -> CharacterDetailTableCellViewModelProtocol?
     func loadInformationCharacter(use id: Int) -> Void
-    
+    func selectRow(atIndexPath indexPath: IndexPath)
 }

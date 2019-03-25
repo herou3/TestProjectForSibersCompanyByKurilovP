@@ -1,0 +1,343 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CharactersListViewModelDelegate"
+- "CharactersListViewModel"
+provides-nominal:
+- "37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelDelegateP"
+- "37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC"
+provides-member:
+- ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelDelegateP", ""]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "??"
+- "AnyObject"
+- !private "Array"
+- "AssignmentPrecedence"
+- "Character"
+- !private "CharacterTableCellViewModel"
+- "CharactersListTableCellViewModelProtocol"
+- "CharactersListViewModel"
+- "CharactersListViewModelDelegate"
+- "CharactersListViewModelProtocol"
+- !private "FloatLiteralType"
+- "IndexPath"
+- "Info"
+- "Int"
+- !private "IntegerLiteralType"
+- !private "Location"
+- "NetworkRequests"
+- !private "Origin"
+- !private "ReachabilityConnect"
+- "String"
+- !private "StringLiteralType"
+- "Void"
+- !private "print"
+depends-member:
+- !private ["Sa", "count"]
+- !private ["Sa", "subscript"]
+- !private ["s13ArrayProtocolP", "count"]
+- !private ["s13ArrayProtocolP", "subscript"]
+- !private ["SK", "count"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["SK", "row"]
+- !private ["SK", "subscript"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "deinit"]
+- !private ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "init"]
+- !private ["37TestProjectForSibersCompanyByKurilovP27CharacterTableCellViewModelC", "deinit"]
+- !private ["37TestProjectForSibersCompanyByKurilovP27CharacterTableCellViewModelC", "init"]
+- !private ["37TestProjectForSibersCompanyByKurilovP40CharactersListTableCellViewModelProtocolP", "init"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "Character"]
+- !private ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "CharacterTableCellViewModel"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "CharactersListTableCellViewModelProtocol"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "CharactersListViewModelDelegate"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "IndexPath"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "Info"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "Int"]
+- !private ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "Location"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "NetworkRequests"]
+- !private ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "Origin"]
+- !private ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "ReachabilityConnect"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "String"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "Void"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "callAlertBlock"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "cellViewModel"]
+- !private ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "characters"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "completeActivityIndicatorBlock"]
+- !private ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "curentPage"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "deinit"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "delegate"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "filterContentBySearchText"]
+- !private ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "info"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "init"]
+- !private ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "loadCharactersData"]
+- !private ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "networRequests"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "numberOfRows"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "numberOfSections"]
+- !private ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "print"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "requestUpdatedBlock"]
+- !private ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "searchingCharacters"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "selectRow"]
+- !private ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "selectedIndexPath"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "startActivityIndicatorBlock"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "titleForHeader"]
+- !private ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "updatedCharacters"]
+- ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelDelegateP", "Character"]
+- ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelDelegateP", "CharactersListViewModel"]
+- ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelDelegateP", "charactersListViewModel"]
+- !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "Character"]
+- !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "CharacterTableCellViewModel"]
+- !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "Location"]
+- ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "NetworkRequests"]
+- !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "Origin"]
+- !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "ReachabilityConnect"]
+- ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", ""]
+- !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "callAlertBlock"]
+- ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "cellViewModel"]
+- !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "completeActivityIndicatorBlock"]
+- !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "curentPage"]
+- !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "delegate"]
+- ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "filterContentBySearchText"]
+- !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "info"]
+- !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "loadCharactersData"]
+- !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "networRequests"]
+- ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "numberOfRows"]
+- ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "numberOfSections"]
+- !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "print"]
+- !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "requestUpdatedBlock"]
+- ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "selectRow"]
+- !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "selectedIndexPath"]
+- !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "startActivityIndicatorBlock"]
+- ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "titleForHeader"]
+- !private ["Sl", "count"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "row"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "row"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "row"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "row"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "row"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "characters"]
+- !private ["Se", "count"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "row"]
+- !private ["Se", "subscript"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "characters"]
+- !private ["SE", "count"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "row"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "character"]
+- !private ["SQ", "count"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "localizedDescription"]
+- !private ["SQ", "row"]
+- !private ["SQ", "subscript"]
+- !private ["s5ErrorP", "localizedDescription"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "row"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "character"]
+- !private ["SH", "count"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "localizedDescription"]
+- !private ["SH", "row"]
+- !private ["SH", "subscript"]
+- !private ["10Foundation9IndexPathV", "row"]
+- !private ["37TestProjectForSibersCompanyByKurilovP4InfoV", "characters"]
+- !private ["37TestProjectForSibersCompanyByKurilovP8LocationV", "deinit"]
+- !private ["37TestProjectForSibersCompanyByKurilovP8LocationV", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", "count"]
+- !private ["SM", "row"]
+- !private ["SM", "subscript"]
+- !private ["37TestProjectForSibersCompanyByKurilovP15NetworkEndpointP", "character"]
+- !private ["37TestProjectForSibersCompanyByKurilovP14NetworkManagerP", "getFeed"]
+- ["37TestProjectForSibersCompanyByKurilovP14NetworkManagerP", "init"]
+- !private ["37TestProjectForSibersCompanyByKurilovP19NetworkManagerErrorO", "deinit"]
+- !private ["37TestProjectForSibersCompanyByKurilovP19NetworkManagerErrorO", "localizedDescription"]
+- !private ["37TestProjectForSibersCompanyByKurilovP15NetworkRequestsC", "getFeed"]
+- ["37TestProjectForSibersCompanyByKurilovP15NetworkRequestsC", "init"]
+- !private ["37TestProjectForSibersCompanyByKurilovP6OriginV", "deinit"]
+- !private ["37TestProjectForSibersCompanyByKurilovP6OriginV", "init"]
+- !private ["Sk", "count"]
+- !private ["Sk", "row"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "count"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["Sm", "subscript"]
+- !private ["37TestProjectForSibersCompanyByKurilovP19ReachabilityConnectC", "isConnectedToNetwork"]
+- !private ["10Foundation20ReferenceConvertibleP", "row"]
+- !private ["37TestProjectForSibersCompanyByKurilovP12RequestFeedsO", "character"]
+- !private ["37TestProjectForSibersCompanyByKurilovP6ResultO", "failure"]
+- !private ["37TestProjectForSibersCompanyByKurilovP6ResultO", "success"]
+- !private ["ST", "count"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "row"]
+- !private ["ST", "subscript"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "row"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- !private "SK"
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "37TestProjectForSibersCompanyByKurilovP9CharacterV"
+- !private "37TestProjectForSibersCompanyByKurilovP27CharacterTableCellViewModelC"
+- !private "37TestProjectForSibersCompanyByKurilovP40CharactersListTableCellViewModelProtocolP"
+- "37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC"
+- "37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelDelegateP"
+- "37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP"
+- !private "Sl"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "SH"
+- !private "10Foundation9IndexPathV"
+- !private "37TestProjectForSibersCompanyByKurilovP4InfoV"
+- !private "37TestProjectForSibersCompanyByKurilovP8LocationV"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "37TestProjectForSibersCompanyByKurilovP15NetworkEndpointP"
+- "37TestProjectForSibersCompanyByKurilovP14NetworkManagerP"
+- !private "37TestProjectForSibersCompanyByKurilovP19NetworkManagerErrorO"
+- "37TestProjectForSibersCompanyByKurilovP15NetworkRequestsC"
+- !private "37TestProjectForSibersCompanyByKurilovP6OriginV"
+- !private "Sk"
+- !private "Sm"
+- !private "37TestProjectForSibersCompanyByKurilovP19ReachabilityConnectC"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "37TestProjectForSibersCompanyByKurilovP12RequestFeedsO"
+- !private "37TestProjectForSibersCompanyByKurilovP6ResultO"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "654a9051b3b3a63edcfae6105b0d2846"

@@ -42,15 +42,34 @@ final class CharactersListCoordinator {
     
     private func showDetailCharacter(_ character: Character) {
         let viewModel = CharacterDetailViewModel(character: character)
+        viewModel.delegate = self
         let detailController = СharacterDetailController(viewModel: viewModel)
         detailController.navigationItem.title = viewModel.name
         navigationController?.pushViewController(detailController, animated: true)
     }
+    
+    private func showCharacterImage(_ imageCellViewModel: CharacterImageCellViewModel) {
+        let viewModel = CharacterImageViewModel(characterImageCellViewModel: imageCellViewModel)
+        let imageController = CharactersImageController(viewModel: viewModel)
+        imageController.navigationItem.title = "Selected Image"
+        navigationController?.pushViewController(imageController, animated: true)
+    }
 }
 
+// MARK: - Extension CharactersListViewModelDelegate
 extension CharactersListCoordinator: CharactersListViewModelDelegate {
     
-    func charactersListViewModel(_ viewModel: CharactersListViewModel, didSelectCar character: Character) {
+    func charactersListViewModel(_ viewModel: CharactersListViewModel,
+                                 didSelectCharacter character: Character) {
         showDetailCharacter(character)
+    }
+}
+
+// MARK: - Extension CharacterDetailViewModelDelegate
+extension CharactersListCoordinator: CharacterDetailViewModelDelegate {
+    
+    func charactersListViewModel(_ viewModel: CharacterDetailViewModel,
+                                 didSelectImageCellViewModel imageCellViewModel: CharacterImageCellViewModel) {
+        showCharacterImage(imageCellViewModel)
     }
 }

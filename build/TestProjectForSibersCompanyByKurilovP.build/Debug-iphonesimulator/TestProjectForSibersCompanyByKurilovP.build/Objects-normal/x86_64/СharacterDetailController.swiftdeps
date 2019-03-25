@@ -10,6 +10,7 @@ provides-dynamic-lookup:
 - "tableView"
 - "viewDidLoad"
 depends-top-level:
+- !private "!="
 - !private "??"
 - !private "Alert"
 - "AssignmentPrecedence"
@@ -42,6 +43,7 @@ depends-member:
 - !private ["37TestProjectForSibersCompanyByKurilovP5AlertV", "showBasicAlert"]
 - ["SK", "init"]
 - ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
 - !private ["So15CALayerDelegateP", "addSubview"]
 - !private ["So15CALayerDelegateP", "backgroundColor"]
 - !private ["So15CALayerDelegateP", "bottomAnchor"]
@@ -69,6 +71,7 @@ depends-member:
 - !private ["s7CVarArgP", "UITableViewCell"]
 - !private ["s7CVarArgP", "UIView"]
 - ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
 - !private ["s7CVarArgP", "addSubview"]
 - !private ["s7CVarArgP", "backgroundColor"]
 - !private ["s7CVarArgP", "bottomAnchor"]
@@ -136,6 +139,7 @@ depends-member:
 - !private ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "name"]
 - !private ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "numberOfRows"]
 - !private ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "requestUpdatedBlock"]
+- !private ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "selectRow"]
 - !private ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "callAlertBlock"]
 - !private ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "detailTableCellViewModel"]
 - !private ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "id"]
@@ -143,6 +147,7 @@ depends-member:
 - !private ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "name"]
 - !private ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "numberOfRows"]
 - !private ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "requestUpdatedBlock"]
+- !private ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "selectRow"]
 - !private ["37TestProjectForSibersCompanyByKurilovP27CharacterImageCellViewModelC", "deinit"]
 - !private ["37TestProjectForSibersCompanyByKurilovP23CharacterImageTableCellC", "configure"]
 - ["Sl", "init"]
@@ -215,8 +220,10 @@ depends-member:
 - ["s28CustomDebugStringConvertibleP", "viewForZooming"]
 - ["s28CustomDebugStringConvertibleP", "viewForZoomingInScrollView"]
 - !private ["s28CustomDebugStringConvertibleP", "white"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
 - ["s29CustomPlaygroundQuickLookableP", "init"]
 - ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
 - !private ["s17CustomReflectableP", "addSubview"]
 - !private ["s17CustomReflectableP", "bottomAnchor"]
 - ["s17CustomReflectableP", "init"]
@@ -234,6 +241,7 @@ depends-member:
 - !private ["s23CustomStringConvertibleP", "UITableViewCell"]
 - !private ["s23CustomStringConvertibleP", "UIView"]
 - ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
 - !private ["s23CustomStringConvertibleP", "addSubview"]
 - !private ["s23CustomStringConvertibleP", "backgroundColor"]
 - !private ["s23CustomStringConvertibleP", "bottomAnchor"]
@@ -288,6 +296,7 @@ depends-member:
 - ["s23CustomStringConvertibleP", "viewForZooming"]
 - ["s23CustomStringConvertibleP", "viewForZoomingInScrollView"]
 - !private ["s23CustomStringConvertibleP", "white"]
+- !private ["Se", "_getBuiltinLogicValue"]
 - !private ["Se", "addSubview"]
 - !private ["Se", "bottomAnchor"]
 - ["Se", "init"]
@@ -297,6 +306,7 @@ depends-member:
 - !private ["Se", "safeAreaLayoutGuide"]
 - !private ["37TestProjectForSibersCompanyByKurilovP11DefaultCellC", "configure"]
 - !private ["37TestProjectForSibersCompanyByKurilovP15DefaultCellTypeO", "nameCharacter"]
+- !private ["SE", "_getBuiltinLogicValue"]
 - !private ["SE", "addSubview"]
 - !private ["SE", "bottomAnchor"]
 - ["SE", "init"]
@@ -314,6 +324,7 @@ depends-member:
 - !private ["SQ", "UITableViewCell"]
 - !private ["SQ", "UIView"]
 - ["SQ", ""]
+- !private ["SQ", "_getBuiltinLogicValue"]
 - !private ["SQ", "addSubview"]
 - !private ["SQ", "backgroundColor"]
 - !private ["SQ", "bottomAnchor"]
@@ -370,6 +381,7 @@ depends-member:
 - ["SQ", "viewForZooming"]
 - ["SQ", "viewForZoomingInScrollView"]
 - !private ["SQ", "white"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
 - ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
 - ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
 - !private ["s23ExpressibleByNilLiteralP", "addSubview"]
@@ -391,6 +403,7 @@ depends-member:
 - !private ["SH", "UITableViewCell"]
 - !private ["SH", "UIView"]
 - ["SH", ""]
+- !private ["SH", "_getBuiltinLogicValue"]
 - !private ["SH", "addSubview"]
 - !private ["SH", "backgroundColor"]
 - !private ["SH", "bottomAnchor"]
@@ -447,6 +460,7 @@ depends-member:
 - ["SH", "viewForZooming"]
 - ["SH", "viewForZoomingInScrollView"]
 - !private ["SH", "white"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
 - ["s25LosslessStringConvertibleP", "init"]
 - ["s25LosslessStringConvertibleP", "init"]
 - ["s10MirrorPathP", "init"]
@@ -1619,6 +1633,7 @@ depends-member:
 - !private ["s37_DefaultCustomPlaygroundQuickLookableP", "tableFooterView"]
 - !private ["s37_DefaultCustomPlaygroundQuickLookableP", "topAnchor"]
 - !private ["s37_DefaultCustomPlaygroundQuickLookableP", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
 - ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
 - ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
 - ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
@@ -1693,6 +1708,7 @@ depends-member:
 - ["10Foundation27_KeyValueCodingAndObservingP", "viewForZooming"]
 - ["10Foundation27_KeyValueCodingAndObservingP", "viewForZoomingInScrollView"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "white"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
 - !private ["s21_ObjectiveCBridgeableP", "addSubview"]
 - !private ["s21_ObjectiveCBridgeableP", "bottomAnchor"]
 - ["s21_ObjectiveCBridgeableP", "init"]
@@ -1756,6 +1772,7 @@ depends-member:
 depends-nominal:
 - !private "37TestProjectForSibersCompanyByKurilovP5AlertV"
 - "SK"
+- !private "Sb"
 - "So15CALayerDelegateP"
 - "s7CVarArgP"
 - !private "So20UITableViewCellStyleV"
@@ -1778,6 +1795,7 @@ depends-nominal:
 - !private "37TestProjectForSibersCompanyByKurilovP15DefaultCellTypeO"
 - "SE"
 - "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
 - "s43ExpressibleByExtendedGraphemeClusterLiteralP"
 - !private "s23ExpressibleByNilLiteralP"
 - "s26ExpressibleByStringLiteralP"
@@ -1836,6 +1854,7 @@ depends-nominal:
 - "So6UIViewC"
 - "So16UIViewControllerC"
 - "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
 - "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
 - "s34_ExpressibleByBuiltinStringLiteralP"
 - "s39_ExpressibleByBuiltinUTF16StringLiteralP"
@@ -1872,4 +1891,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "6d856654afae8b870d4b9143349213b9"
+interface-hash: "30c3e80be71731111b96398c0605f1f5"

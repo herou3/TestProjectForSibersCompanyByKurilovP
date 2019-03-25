@@ -8,6 +8,12 @@
 
 import UIKit
 
+protocol CharacterDetailViewModelDelegate: class {
+    // MARK: - Protocols methods
+    func charactersListViewModel(_ viewModel: CharacterDetailViewModel,
+                                 didSelectImageCellViewModel imageCellViewModel: CharacterImageCellViewModel)
+}
+
 enum DefaultCellType {
     case nameCharacter, statusCharacter, speciesCharacter, typeCharacter, gendeCharacter,
     originLocationName, curentLocationName, imageChararcter
@@ -36,11 +42,11 @@ enum DefaultCellType {
 
 class CharacterDetailViewModel: CharacterDetailViewModelProtocol {
     
-    
     // MARK: - Properties
     private var character: Character?
     private var charactersListViewModels: [CharacterDetailTableCellViewModelProtocol] = []
     private let networRequests: NetworkRequests = NetworkRequests()
+    var delegate: CharacterDetailViewModelDelegate?
     var callAlertBlock: ((_ textTitle: String, _ textMessage: String) -> Void)?
     var requestUpdatedBlock: (() -> Void)?
     
@@ -137,5 +143,13 @@ class CharacterDetailViewModel: CharacterDetailViewModelProtocol {
     func detailTableCellViewModel(forIndexPath indexPath: IndexPath) -> CharacterDetailTableCellViewModelProtocol? {
         
         return charactersListViewModels[indexPath.row]
+    }
+    
+    func selectRow(atIndexPath indexPath: IndexPath) {
+        
+        guard let imageCellViewModel = charactersListViewModels[indexPath.row] as? CharacterImageCellViewModel else {
+            return
+        }
+        delegate?.charactersListViewModel(self, didSelectImageCellViewModel: imageCellViewModel)
     }
 }

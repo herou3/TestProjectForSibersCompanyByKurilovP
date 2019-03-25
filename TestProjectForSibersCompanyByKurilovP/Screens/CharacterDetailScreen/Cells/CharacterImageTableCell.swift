@@ -65,7 +65,5 @@ class CharacterImageTableCell: DefaultCell {
     
     func configure(with viewModel: CharacterDetailTableCellViewModelProtocol) {
         self.characterImageView.loadImage(urlString: viewModel.value ?? "")
-        guard let characterDetailInfoCellViewModel = viewModel as? CharacterDetailCellViewModel else { return }
-        self.cellType = characterDetailInfoCellViewModel.cellType
     }
 }

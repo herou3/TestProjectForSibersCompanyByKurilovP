@@ -70,6 +70,7 @@ depends-member:
 - ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "callAlertBlock"]
 - ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "cellViewModel"]
 - !private ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "characters"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "completeActivityIndicatorBlock"]
 - !private ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "curentPage"]
 - ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "deinit"]
 - ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "delegate"]
@@ -85,6 +86,7 @@ depends-member:
 - !private ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "searchingCharacters"]
 - ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "selectRow"]
 - !private ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "selectedIndexPath"]
+- ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "startActivityIndicatorBlock"]
 - ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "titleForHeader"]
 - !private ["37TestProjectForSibersCompanyByKurilovP23CharactersListViewModelC", "updatedCharacters"]
 - ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelDelegateP", "Character"]
@@ -99,6 +101,7 @@ depends-member:
 - ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", ""]
 - !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "callAlertBlock"]
 - ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "cellViewModel"]
+- !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "completeActivityIndicatorBlock"]
 - !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "curentPage"]
 - !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "delegate"]
 - ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "filterContentBySearchText"]
@@ -111,6 +114,7 @@ depends-member:
 - !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "requestUpdatedBlock"]
 - ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "selectRow"]
 - !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "selectedIndexPath"]
+- !private ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "startActivityIndicatorBlock"]
 - ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "titleForHeader"]
 - !private ["Sl", "count"]
 - !private ["Sl", "init"]
@@ -336,4 +340,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "b23f88348ef81e7911359dd5423bdef3"
+interface-hash: "654a9051b3b3a63edcfae6105b0d2846"
