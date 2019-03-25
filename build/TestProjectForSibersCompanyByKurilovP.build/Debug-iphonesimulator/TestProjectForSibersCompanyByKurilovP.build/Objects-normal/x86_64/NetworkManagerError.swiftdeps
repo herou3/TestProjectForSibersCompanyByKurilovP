@@ -9,8 +9,6 @@ provides-dynamic-lookup:
 depends-top-level:
 - "=="
 - "Error"
-- !private "FloatLiteralType"
-- !private "IntegerLiteralType"
 - "NetworkManagerError"
 - "String"
 - !private "StringLiteralType"
@@ -49,7 +47,6 @@ depends-member:
 - ["SQ", "jsonParsingFailure"]
 - ["SQ", "requestFailed"]
 - ["SQ", "responseUnsuccessful"]
-- ["SQ", "responseUnsuccessfulCode401"]
 - ["SQ", "responseUnsuccessfulCode404"]
 - ["s5ErrorP", ""]
 - ["s5ErrorP", "_code"]
@@ -63,7 +60,6 @@ depends-member:
 - ["s5ErrorP", "jsonParsingFailure"]
 - ["s5ErrorP", "requestFailed"]
 - ["s5ErrorP", "responseUnsuccessful"]
-- ["s5ErrorP", "responseUnsuccessfulCode401"]
 - ["s5ErrorP", "responseUnsuccessfulCode404"]
 - !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
 - !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
@@ -85,7 +81,6 @@ depends-member:
 - ["SH", "jsonParsingFailure"]
 - ["SH", "requestFailed"]
 - ["SH", "responseUnsuccessful"]
-- ["SH", "responseUnsuccessfulCode401"]
 - ["SH", "responseUnsuccessfulCode404"]
 - !private ["s6HasherV", "combine"]
 - !private ["s25LosslessStringConvertibleP", "init"]
@@ -107,7 +102,6 @@ depends-member:
 - ["37TestProjectForSibersCompanyByKurilovP19NetworkManagerErrorO", "localizedDescription"]
 - ["37TestProjectForSibersCompanyByKurilovP19NetworkManagerErrorO", "requestFailed"]
 - ["37TestProjectForSibersCompanyByKurilovP19NetworkManagerErrorO", "responseUnsuccessful"]
-- ["37TestProjectForSibersCompanyByKurilovP19NetworkManagerErrorO", "responseUnsuccessfulCode401"]
 - ["37TestProjectForSibersCompanyByKurilovP19NetworkManagerErrorO", "responseUnsuccessfulCode404"]
 - !private ["Sm", "init"]
 - !private ["Sm", "init"]
@@ -195,4 +189,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "8ec5292e84daa7e20f625d4ffdf36692"
+interface-hash: "d1099f7563a6837de89977845fa7f73c"

@@ -6,6 +6,209 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
+		<key>0229EF91-3971-4BEB-AAD2-ED7D9B565BB5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0229EF91-3971-4BEB-AAD2-ED7D9B565BB5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575138271.94841301</real>
+			<key>timeStoppedRecording</key>
+			<real>575138435.17038298</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>0229EF91-3971-4BEB-AAD2-ED7D9B565BB5</string>
+		</dict>
+		<key>035D8ABA-8EA4-48EF-91A8-C2B2A451017A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>035D8ABA-8EA4-48EF-91A8-C2B2A451017A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575138808.68276703</real>
+			<key>timeStoppedRecording</key>
+			<real>575138895.59927404</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>035D8ABA-8EA4-48EF-91A8-C2B2A451017A</string>
+		</dict>
+		<key>0F474B0B-5199-400C-A842-4240EFB69FEF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0F474B0B-5199-400C-A842-4240EFB69FEF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575139762.81143498</real>
+			<key>timeStoppedRecording</key>
+			<real>575139817.52363598</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>0F474B0B-5199-400C-A842-4240EFB69FEF</string>
+		</dict>
+		<key>10AC93C4-AF62-4093-9E25-0B485BF4160C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>10AC93C4-AF62-4093-9E25-0B485BF4160C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575114289.580598</real>
+			<key>timeStoppedRecording</key>
+			<real>575114370.68661201</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>10AC93C4-AF62-4093-9E25-0B485BF4160C</string>
+		</dict>
+		<key>267BA500-9C3B-44F3-9DAD-3227FBEA546F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>267BA500-9C3B-44F3-9DAD-3227FBEA546F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575139623.50853097</real>
+			<key>timeStoppedRecording</key>
+			<real>575139691.601614</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>267BA500-9C3B-44F3-9DAD-3227FBEA546F</string>
+		</dict>
+		<key>26C591D4-ECE1-43BB-A96E-539233A19473</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>26C591D4-ECE1-43BB-A96E-539233A19473.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575138690.70265496</real>
+			<key>timeStoppedRecording</key>
+			<real>575138706.70011699</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>26C591D4-ECE1-43BB-A96E-539233A19473</string>
+		</dict>
+		<key>290A8133-087A-4B80-9B91-A20CEE67132E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>290A8133-087A-4B80-9B91-A20CEE67132E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575139069.72799397</real>
+			<key>timeStoppedRecording</key>
+			<real>575139210.11818194</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>290A8133-087A-4B80-9B91-A20CEE67132E</string>
+		</dict>
 		<key>356719BA-B2BD-438D-BC94-FC17370C8D20</key>
 		<dict>
 			<key>className</key>
@@ -34,6 +237,64 @@
 			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
 			<key>uniqueIdentifier</key>
 			<string>356719BA-B2BD-438D-BC94-FC17370C8D20</string>
+		</dict>
+		<key>38A95141-A5B1-4704-B9B0-3D8A4DB255B4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>38A95141-A5B1-4704-B9B0-3D8A4DB255B4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575139823.61237204</real>
+			<key>timeStoppedRecording</key>
+			<real>575140097.18819797</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>38A95141-A5B1-4704-B9B0-3D8A4DB255B4</string>
+		</dict>
+		<key>3F2B57DB-9DD7-40D7-A624-5163F470678E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3F2B57DB-9DD7-40D7-A624-5163F470678E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575114716.44167197</real>
+			<key>timeStoppedRecording</key>
+			<real>575127526.98729396</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>3F2B57DB-9DD7-40D7-A624-5163F470678E</string>
 		</dict>
 		<key>3F6283CB-4F23-431A-8738-965AE134445A</key>
 		<dict>
@@ -64,6 +325,383 @@
 			<key>uniqueIdentifier</key>
 			<string>3F6283CB-4F23-431A-8738-965AE134445A</string>
 		</dict>
+		<key>42854828-EC1D-4060-937C-CBD968FA2D98</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>42854828-EC1D-4060-937C-CBD968FA2D98.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575114014.92504299</real>
+			<key>timeStoppedRecording</key>
+			<real>575114283.81422901</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>42854828-EC1D-4060-937C-CBD968FA2D98</string>
+		</dict>
+		<key>45CD6A88-5C04-4C55-9CBB-F0B81351DB33</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>45CD6A88-5C04-4C55-9CBB-F0B81351DB33.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575113899.57675397</real>
+			<key>timeStoppedRecording</key>
+			<real>575114008.78726804</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>45CD6A88-5C04-4C55-9CBB-F0B81351DB33</string>
+		</dict>
+		<key>5A328417-AFC2-47B9-B32F-91FB916F2CDF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5A328417-AFC2-47B9-B32F-91FB916F2CDF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575138963.23623002</real>
+			<key>timeStoppedRecording</key>
+			<real>575139063.50332904</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>5A328417-AFC2-47B9-B32F-91FB916F2CDF</string>
+		</dict>
+		<key>5F4894BE-B1AD-4B03-A306-AD1EA53CFFAF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5F4894BE-B1AD-4B03-A306-AD1EA53CFFAF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575165892.94595695</real>
+			<key>timeStoppedRecording</key>
+			<real>575166646.36203003</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>5F4894BE-B1AD-4B03-A306-AD1EA53CFFAF</string>
+		</dict>
+		<key>651CA384-1B05-4F2D-BCA5-BCF2A153387A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>651CA384-1B05-4F2D-BCA5-BCF2A153387A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575166652.09687603</real>
+			<key>timeStoppedRecording</key>
+			<real>575167956.97094405</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>651CA384-1B05-4F2D-BCA5-BCF2A153387A</string>
+		</dict>
+		<key>6547E5AC-40AB-46F2-838E-345F29F5A444</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6547E5AC-40AB-46F2-838E-345F29F5A444.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575138901.49546897</real>
+			<key>timeStoppedRecording</key>
+			<real>575138948.94791901</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>6547E5AC-40AB-46F2-838E-345F29F5A444</string>
+		</dict>
+		<key>7A18E42B-65C5-4F73-9489-D4CFA01CE92C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7A18E42B-65C5-4F73-9489-D4CFA01CE92C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575139696.74076498</real>
+			<key>timeStoppedRecording</key>
+			<real>575139740.24532795</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>7A18E42B-65C5-4F73-9489-D4CFA01CE92C</string>
+		</dict>
+		<key>9D8B8555-CBBB-43FF-A420-B859B4FB65C4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9D8B8555-CBBB-43FF-A420-B859B4FB65C4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575140097.77707005</real>
+			<key>timeStoppedRecording</key>
+			<real>575140155.20025802</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>9D8B8555-CBBB-43FF-A420-B859B4FB65C4</string>
+		</dict>
+		<key>9F80EA6E-2427-41D8-AC0C-5215F27A0074</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9F80EA6E-2427-41D8-AC0C-5215F27A0074.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575138712.96584201</real>
+			<key>timeStoppedRecording</key>
+			<real>575138727.80656195</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>9F80EA6E-2427-41D8-AC0C-5215F27A0074</string>
+		</dict>
+		<key>A23FC855-2362-4BE0-885D-4210E454088C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A23FC855-2362-4BE0-885D-4210E454088C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575138623.05056095</real>
+			<key>timeStoppedRecording</key>
+			<real>575138685.39780402</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>A23FC855-2362-4BE0-885D-4210E454088C</string>
+		</dict>
+		<key>A9EEE048-ADA7-46CE-8ABA-B759E8B47815</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A9EEE048-ADA7-46CE-8ABA-B759E8B47815.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575114407.19773805</real>
+			<key>timeStoppedRecording</key>
+			<real>575114497.30330205</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>A9EEE048-ADA7-46CE-8ABA-B759E8B47815</string>
+		</dict>
+		<key>B0477580-193B-45B8-B699-BB00E886AB53</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B0477580-193B-45B8-B699-BB00E886AB53.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575140160.27321398</real>
+			<key>timeStoppedRecording</key>
+			<real>575140237.12025499</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>B0477580-193B-45B8-B699-BB00E886AB53</string>
+		</dict>
+		<key>B251D907-5483-4A49-A899-541A0E8F2E4A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B251D907-5483-4A49-A899-541A0E8F2E4A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575114523.10239601</real>
+			<key>timeStoppedRecording</key>
+			<real>575114695.80683696</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>B251D907-5483-4A49-A899-541A0E8F2E4A</string>
+		</dict>
 		<key>BA9522B2-484B-439C-AB34-DA651D26DECD</key>
 		<dict>
 			<key>className</key>
@@ -92,6 +730,151 @@
 			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
 			<key>uniqueIdentifier</key>
 			<string>BA9522B2-484B-439C-AB34-DA651D26DECD</string>
+		</dict>
+		<key>C2FD85CB-D2FD-43FD-8453-30E2761FF9E5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C2FD85CB-D2FD-43FD-8453-30E2761FF9E5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575140241.47690105</real>
+			<key>timeStoppedRecording</key>
+			<real>575165874.66930795</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>C2FD85CB-D2FD-43FD-8453-30E2761FF9E5</string>
+		</dict>
+		<key>DB2EE3B0-34D4-4054-9B45-8F2AEB79803C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DB2EE3B0-34D4-4054-9B45-8F2AEB79803C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575138481.01489496</real>
+			<key>timeStoppedRecording</key>
+			<real>575138617.40500498</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>DB2EE3B0-34D4-4054-9B45-8F2AEB79803C</string>
+		</dict>
+		<key>EE9840FB-A824-44F9-9B7B-6A32546C5156</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EE9840FB-A824-44F9-9B7B-6A32546C5156.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575114502.76744401</real>
+			<key>timeStoppedRecording</key>
+			<real>575114521.826033</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>EE9840FB-A824-44F9-9B7B-6A32546C5156</string>
+		</dict>
+		<key>F3F2E929-6F82-43F4-8CD4-8C9BD4C51EB9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F3F2E929-6F82-43F4-8CD4-8C9BD4C51EB9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575138732.94280005</real>
+			<key>timeStoppedRecording</key>
+			<real>575138803.33636904</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>F3F2E929-6F82-43F4-8CD4-8C9BD4C51EB9</string>
+		</dict>
+		<key>F9B22590-1A92-4E4B-A446-F4EEACA612B2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F9B22590-1A92-4E4B-A446-F4EEACA612B2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575138442.17803001</real>
+			<key>timeStoppedRecording</key>
+			<real>575138472.79701197</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>F9B22590-1A92-4E4B-A446-F4EEACA612B2</string>
 		</dict>
 	</dict>
 </dict>

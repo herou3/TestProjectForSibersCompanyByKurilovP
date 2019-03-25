@@ -21,7 +21,7 @@ extension RequestFeeds: NetworkEndpoint {
     
     var path: String {
         switch self {
-        case .character: return "character/"
+        case .character: return "/api/character/"
         }
     }
 

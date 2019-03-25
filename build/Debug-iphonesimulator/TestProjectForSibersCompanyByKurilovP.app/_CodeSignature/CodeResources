@@ -4,9 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Assets.car</key>
+		<data>
+		BRDBSEukFtP3fLCq65U/JCpPz9c=
+		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		7LAdP2EPQumnRhKUC9pJQRgBs1Q=
+		z+2BJV2PequRjHUOD6ZNUm3F6V8=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -14,7 +18,7 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		AdR757BjxclmUgY8RVpmqNxUq9c=
+		Q0XHHvpp/+z6gOZbiBt+1Mh2RRs=
 		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
@@ -70,7 +74,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		HF39L0wmsJpHwJy1Sxxmr5DA7uY=
+		eq/GCn74r7hdFyPnI494FxcAHYw=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -83,11 +87,18 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eHT/7SHKPaQs3cBEMP2Y9PUjvNi/8QvDWBXbxj9b+Zs=
+			</data>
+		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eUOnYBtF4XvLAhoQsK7GN26SIO5sKqDEhsqV99Dzch4=
+			aevRskIBeuVuZ2f80Kfn0oqyvGJbZUctiMWGQdpjztA=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -101,7 +112,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Br16n+y4eMSZbs4e25QU/TnM54W/OzCamsuoldr/nbE=
+			5+Zb4Pynm1nwCAZodQqH6EFiDzb8GJtpuOai/PIy9SY=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCore.dylib</key>

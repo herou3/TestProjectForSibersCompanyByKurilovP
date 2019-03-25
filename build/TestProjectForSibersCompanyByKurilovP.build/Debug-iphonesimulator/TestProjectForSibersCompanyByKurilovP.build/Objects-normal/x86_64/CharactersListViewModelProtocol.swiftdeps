@@ -17,9 +17,8 @@ depends-member:
 - ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "IndexPath"]
 - ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "Int"]
 - ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "String"]
-- ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "cancelSearchingProcess"]
 - ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "cellViewModel"]
-- ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "filterContentForSearchText"]
+- ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "filterContentBySearchText"]
 - ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "numberOfRows"]
 - ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "numberOfSections"]
 - ["37TestProjectForSibersCompanyByKurilovP31CharactersListViewModelProtocolP", "selectRow"]
@@ -52,4 +51,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "7e423e0db72edf148dda834e51eece48"
+interface-hash: "6e34e0acf9c145d73466ca94d2eadad8"

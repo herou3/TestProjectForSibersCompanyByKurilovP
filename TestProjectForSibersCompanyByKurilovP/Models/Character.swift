@@ -56,4 +56,30 @@ struct Character: Codable {
         url = try values.decodeIfPresent(String.self, forKey: .url)
         created = try values.decodeIfPresent(String.self, forKey: .created)
     }
+    
+    init(id: Int,
+         name: String,
+         status: String,
+         species: String,
+         type: String,
+         gender: String,
+         origin: Origin,
+         location: Location,
+         image: String,
+         episodes: [String],
+         url: String,
+         created: String) {
+        self.id = id
+        self.name = name
+        self.status = status
+        self.species = species
+        self.type = type
+        self.gender = gender
+        self.origin = origin
+        self.location = location
+        self.image = image
+        self.episodes = episodes
+        self.url = url
+        self.created = created
+    }
 }

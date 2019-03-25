@@ -11,6 +11,9 @@ import UIKit
 struct Constant {
     
     // MARK: - Properties
-    static let baseUrl: String = "https://rickandmortyapi.com/api/"
-    
+    static let baseUrl: String = "https://rickandmortyapi.com"
+    static let marginLeftAndRightValue: CGFloat = 16.0
+    static let imageSizeValue: CGFloat = 100.0
+    static let labelSizeValue: CGFloat = 100.0
+    static let searchBarSizeValueH: CGFloat = 64.0
 }

@@ -163,6 +163,9 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # define SWIFT_DEPRECATED_OBJC(Msg) SWIFT_DEPRECATED_MSG(Msg)
 #endif
 #if __has_feature(modules)
+@import CoreGraphics;
+@import Foundation;
+@import ObjectiveC;
 @import UIKit;
 #endif
 
@@ -197,6 +200,17 @@ SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP11AppDelegate")
 @end
 
 @class NSCoder;
+@class UIImage;
+
+SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP15CachedImageView")
+@interface CachedImageView : UIImageView
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+- (void)handleTap;
+- (nonnull instancetype)initWithImage:(UIImage * _Nullable)image SWIFT_UNAVAILABLE;
+- (nonnull instancetype)initWithImage:(UIImage * _Nullable)image highlightedImage:(UIImage * _Nullable)highlightedImage SWIFT_UNAVAILABLE;
+- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
+@end
+
 
 SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP11DefaultCell")
 @interface DefaultCell : UITableViewCell
@@ -205,21 +219,62 @@ SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP11DefaultCell")
 @end
 
 
+SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP18CharacterTableCell")
+@interface CharacterTableCell : DefaultCell
+- (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+@end
 
+@class NSBundle;
 
-@interface UITextField (SWIFT_EXTENSION(TestProjectForSibersCompanyByKurilovP))
-- (void)clearWithSender:(id _Nonnull)sender;
+SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP24CharactersListController")
+@interface CharactersListController : UIViewController
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+- (void)viewDidLoad;
+- (void)viewDidLayoutSubviews;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil SWIFT_UNAVAILABLE;
+@end
+
+@class UISearchBar;
+
+@interface CharactersListController (SWIFT_EXTENSION(TestProjectForSibersCompanyByKurilovP)) <UISearchBarDelegate>
+- (void)searchBarSearchButtonClicked:(UISearchBar * _Nonnull)searchBar;
+- (BOOL)searchBarShouldBeginEditing:(UISearchBar * _Nonnull)searchBar SWIFT_WARN_UNUSED_RESULT;
+- (void)searchBarCancelButtonClicked:(UISearchBar * _Nonnull)searchBar;
+- (void)searchBarTextDidEndEditing:(UISearchBar * _Nonnull)searchBar;
+- (BOOL)searchBarShouldEndEditing:(UISearchBar * _Nonnull)searchBar SWIFT_WARN_UNUSED_RESULT;
+- (void)searchBar:(UISearchBar * _Nonnull)searchBar textDidChange:(NSString * _Nonnull)searchText;
+@end
+
+@class UITableView;
+
+@interface CharactersListController (SWIFT_EXTENSION(TestProjectForSibersCompanyByKurilovP)) <UITableViewDataSource, UITableViewDelegate>
+- (NSInteger)numberOfSectionsInTableView:(UITableView * _Nonnull)tableView SWIFT_WARN_UNUSED_RESULT;
+- (NSInteger)tableView:(UITableView * _Nonnull)tableView numberOfRowsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
+- (UITableViewCell * _Nonnull)tableView:(UITableView * _Nonnull)tableView cellForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
+- (CGFloat)tableView:(UITableView * _Nonnull)tableView heightForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
+- (void)tableView:(UITableView * _Nonnull)tableView didSelectRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
+- (NSString * _Nullable)tableView:(UITableView * _Nonnull)tableView titleForHeaderInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
+- (CGFloat)tableView:(UITableView * _Nonnull)tableView heightForHeaderInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
 @end
 
 
 
-@class NSBundle;
+SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP25DiscardableImageCacheItem")
+@interface DiscardableImageCacheItem : NSObject <NSDiscardableContent>
+- (BOOL)beginContentAccess SWIFT_WARN_UNUSED_RESULT;
+- (void)endContentAccess;
+- (void)discardContentIfPossible;
+- (BOOL)isContentDiscarded SWIFT_WARN_UNUSED_RESULT;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_DEPRECATED_MSG("-init is unavailable");
+@end
 
-SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP14ViewController")
-@interface ViewController : UIViewController
-- (void)viewDidLoad;
-- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+
+
+
+@interface UITextField (SWIFT_EXTENSION(TestProjectForSibersCompanyByKurilovP))
+- (void)clearWithSender:(id _Nonnull)sender;
 @end
 
 #if __has_attribute(external_source_symbol)

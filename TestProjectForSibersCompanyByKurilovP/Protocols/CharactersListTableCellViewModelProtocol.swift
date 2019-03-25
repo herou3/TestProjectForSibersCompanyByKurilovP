@@ -15,5 +15,5 @@ protocol CharactersListTableCellViewModelProtocol {
     var status: String { get }
     var species: String { get }
     var gender: String { get }
-    var image: UIImage { get }
+    var image: String { get }
 }

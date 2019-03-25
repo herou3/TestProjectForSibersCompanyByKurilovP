@@ -38,8 +38,6 @@ extension NetworkManager {
                     } else {
                         completion(nil, .invalidData)
                     }
-                } else if httpResponse.statusCode == 401 {
-                    completion(nil, .responseUnsuccessfulCode401)
                 } else if httpResponse.statusCode == 404 {
                     completion(nil, .responseUnsuccessfulCode404)
                 } else {

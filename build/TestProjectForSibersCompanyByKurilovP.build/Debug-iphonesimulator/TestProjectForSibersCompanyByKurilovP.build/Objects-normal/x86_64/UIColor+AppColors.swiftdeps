@@ -5,6 +5,8 @@ provides-member:
 - ["So7UIColorC", ""]
 - ["So7UIColorC", "color"]
 - ["So7UIColorC", "darkTurquoise"]
+- ["So7UIColorC", "crystal"]
+- ["So7UIColorC", "shadeOfCyan"]
 provides-dynamic-lookup:
 depends-top-level:
 - !private "/"
@@ -43,8 +45,10 @@ depends-member:
 - ["So8NSObjectC", "CGFloat"]
 - ["So8NSObjectC", "UIColor"]
 - ["So8NSObjectC", "color"]
+- ["So8NSObjectC", "crystal"]
 - ["So8NSObjectC", "darkTurquoise"]
 - !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "shadeOfCyan"]
 - !private ["So8NSObjectP", "UIColor"]
 - !private ["So8NSObjectP", "color"]
 - !private ["So8NSObjectP", "init"]
@@ -54,8 +58,10 @@ depends-member:
 - ["So7UIColorC", "CGFloat"]
 - ["So7UIColorC", "UIColor"]
 - ["So7UIColorC", "color"]
+- ["So7UIColorC", "crystal"]
 - ["So7UIColorC", "darkTurquoise"]
 - !private ["So7UIColorC", "init"]
+- ["So7UIColorC", "shadeOfCyan"]
 - !private ["s26_ExpressibleByColorLiteralP", "UIColor"]
 - !private ["s26_ExpressibleByColorLiteralP", "color"]
 - !private ["s26_ExpressibleByColorLiteralP", "init"]
@@ -104,4 +110,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "afb05677040dfb2a25242b9c226385ec"
+interface-hash: "bf49472194413202c47c5d604b9fefb7"

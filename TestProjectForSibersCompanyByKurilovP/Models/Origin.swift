@@ -26,4 +26,9 @@ struct Origin: Codable {
         name = try values.decodeIfPresent(String.self, forKey: .name)
         url = try values.decodeIfPresent(String.self, forKey: .url)
     }
+    
+    init(name: String, url: String) {
+        self.name = name
+        self.url = url
+    }
 }

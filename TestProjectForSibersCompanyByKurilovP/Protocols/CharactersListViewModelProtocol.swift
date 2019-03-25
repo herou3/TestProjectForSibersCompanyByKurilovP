@@ -16,6 +16,5 @@ protocol CharactersListViewModelProtocol {
     func cellViewModel(forIndexPath indexPath: IndexPath) -> CharactersListTableCellViewModelProtocol?
     func selectRow(atIndexPath indexPath: IndexPath)
     func titleForHeader(InSection section: Int) -> String
-    func filterContentForSearchText(_ searchText: String)
-    func cancelSearchingProcess()
+    func filterContentBySearchText(_ searchText: String)
 }

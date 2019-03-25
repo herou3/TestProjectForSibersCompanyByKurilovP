@@ -3,6 +3,7 @@
 <plist version="1.0">
 <array>
 	<string>UIKit</string>
+	<string>SystemConfiguration</string>
 	<string>Foundation</string>
 </array>
 </plist>

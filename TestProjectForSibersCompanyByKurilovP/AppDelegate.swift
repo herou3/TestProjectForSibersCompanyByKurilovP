@@ -12,9 +12,18 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
+    var coordinator: CharactersListCoordinator!
 
     func application(_ application: UIApplication,
                      didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        self.window = UIWindow(frame: UIScreen.main.bounds)
+        self.window?.makeKeyAndVisible()
+        self.window?.rootViewController = UINavigationController(nibName: nil, bundle: nil)
+        guard let navigationController = window?.rootViewController as? UINavigationController else { return true }
+        coordinator = CharactersListCoordinator(navigationController: navigationController)
+        coordinator.start()
+//        let charactersListViewModel: CharactersListViewModel = CharactersListViewModel()
+//        charactersListViewModel.filterContentBySearchText("Rick")
         return true
     }
 

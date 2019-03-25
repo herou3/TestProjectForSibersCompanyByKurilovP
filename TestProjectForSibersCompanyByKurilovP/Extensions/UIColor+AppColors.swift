@@ -19,4 +19,12 @@ extension UIColor {
     class var darkTurquoise: UIColor {
         return color(0, 206, 209)
     }
+    
+    class var crystal: UIColor {
+        return color(167, 216, 222)
+    }
+    
+    class var shadeOfCyan: UIColor {
+        return color(100, 129, 133)
+    }
 }

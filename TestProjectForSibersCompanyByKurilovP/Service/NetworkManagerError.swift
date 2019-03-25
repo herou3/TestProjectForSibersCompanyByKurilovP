@@ -15,7 +15,6 @@ enum NetworkManagerError: Error {
     case responseUnsuccessful
     case jsonParsingFailure
     case responseUnsuccessfulCode404
-    case responseUnsuccessfulCode401
     
     var localizedDescription: String {
         switch self {
@@ -25,8 +24,6 @@ enum NetworkManagerError: Error {
         case .jsonParsingFailure: return "JSON Parsing Failure"
         case .jsonConversionFailure: return "JSON Conversion Failure"
         case .responseUnsuccessfulCode404: return "Character not found"
-        case .responseUnsuccessfulCode401:
-            return "Invalid API key. Please see http://openweathermap.org/faq#error401 for more info"
         }
     }
 }

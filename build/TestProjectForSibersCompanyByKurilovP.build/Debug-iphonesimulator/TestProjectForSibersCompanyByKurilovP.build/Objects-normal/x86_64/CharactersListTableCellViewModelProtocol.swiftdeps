@@ -9,10 +9,8 @@ provides-dynamic-lookup:
 depends-top-level:
 - "CharactersListTableCellViewModelProtocol"
 - "String"
-- "UIImage"
 depends-member:
 - ["37TestProjectForSibersCompanyByKurilovP40CharactersListTableCellViewModelProtocolP", "String"]
-- ["37TestProjectForSibersCompanyByKurilovP40CharactersListTableCellViewModelProtocolP", "UIImage"]
 - ["37TestProjectForSibersCompanyByKurilovP40CharactersListTableCellViewModelProtocolP", "gender"]
 - ["37TestProjectForSibersCompanyByKurilovP40CharactersListTableCellViewModelProtocolP", "image"]
 - ["37TestProjectForSibersCompanyByKurilovP40CharactersListTableCellViewModelProtocolP", "name"]
@@ -46,4 +44,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "c29b9b414b5648875970e03fc456d84f"
+interface-hash: "62b6a9292d90c80a663616758bd9a98a"

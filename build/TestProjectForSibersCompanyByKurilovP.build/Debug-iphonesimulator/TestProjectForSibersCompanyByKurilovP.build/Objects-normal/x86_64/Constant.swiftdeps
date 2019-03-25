@@ -7,7 +7,9 @@ provides-member:
 - ["37TestProjectForSibersCompanyByKurilovP8ConstantV", ""]
 provides-dynamic-lookup:
 depends-top-level:
+- "CGFloat"
 - "Constant"
+- "FloatLiteralType"
 - "String"
 - "StringLiteralType"
 depends-member:
@@ -19,9 +21,14 @@ depends-member:
 - ["Sl", "init"]
 - ["SL", "init"]
 - ["SL", "init"]
+- ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "CGFloat"]
 - ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "String"]
 - ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "baseUrl"]
+- ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "imageSizeValue"]
 - ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "init"]
+- ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "labelSizeValue"]
+- ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "marginLeftAndRightValue"]
+- ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "searchBarSizeValueH"]
 - ["s28CustomDebugStringConvertibleP", "init"]
 - ["s28CustomDebugStringConvertibleP", "init"]
 - ["s29CustomPlaygroundQuickLookableP", "init"]
@@ -132,4 +139,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "8f52da77e92efaffb3872924b6c94d97"
+interface-hash: "f722c837192fc2bf271b7f47a1a59f49"
