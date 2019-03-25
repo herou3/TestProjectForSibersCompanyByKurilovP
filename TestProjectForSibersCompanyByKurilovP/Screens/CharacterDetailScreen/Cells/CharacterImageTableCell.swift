@@ -24,12 +24,13 @@ class CharacterImageTableCell: DefaultCell {
     }
     
     // MARK: - Create UIElements for cell
-    private var characterImageView : CachedImageView = {
+    private var characterImageView: CachedImageView = {
         let characterImageView = CachedImageView()
         characterImageView.translatesAutoresizingMaskIntoConstraints = false
         characterImageView.contentMode = .scaleAspectFill
         characterImageView.clipsToBounds = true
-        characterImageView.layer.cornerRadius = CGFloat(Constant.characterImageSizeValue) / 2 - (Constant.marginLeftAndRightValue / 2)
+        characterImageView.layer.cornerRadius = CGFloat(Constant.characterImageSizeValue) / 2 -
+                                                (Constant.marginLeftAndRightValue / 2)
         return characterImageView
     }()
     

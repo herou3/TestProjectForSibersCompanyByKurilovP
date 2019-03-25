@@ -59,7 +59,8 @@ class CharacterDetailTableCell: DefaultCell {
                                                    constant: -Constant.marginLeftAndRightValue / 2).isActive = true
         decriptionLabel.topAnchor.constraint(equalTo: self.topAnchor,
                                                 constant: Constant.marginLeftAndRightValue / 2).isActive = true
-        decriptionLabel.rightAnchor.constraint(equalTo: self.centerXAnchor, constant: -Constant.marginLeftAndRightValue / 2).isActive = true
+        decriptionLabel.rightAnchor.constraint(equalTo: self.centerXAnchor,
+                                               constant: -Constant.marginLeftAndRightValue / 2).isActive = true
         decriptionLabel.heightAnchor.constraint(equalToConstant: Constant.fontSizeValue).isActive = true
     }
     
@@ -71,7 +72,8 @@ class CharacterDetailTableCell: DefaultCell {
                                                 constant: -Constant.marginLeftAndRightValue / 2).isActive = true
         valueLabel.topAnchor.constraint(equalTo: self.topAnchor,
                                              constant: Constant.marginLeftAndRightValue / 2).isActive = true
-        valueLabel.rightAnchor.constraint(equalTo: self.rightAnchor, constant: -Constant.marginLeftAndRightValue / 2).isActive = true
+        valueLabel.rightAnchor.constraint(equalTo: self.rightAnchor,
+                                          constant: -Constant.marginLeftAndRightValue / 2).isActive = true
         valueLabel.heightAnchor.constraint(equalToConstant: Constant.fontSizeValue).isActive = true
     }
     

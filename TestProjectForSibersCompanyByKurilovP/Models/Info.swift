@@ -36,4 +36,3 @@ struct Info: Codable {
         characters = try values.decodeIfPresent([Character].self, forKey: .characters)
     }
 }
-

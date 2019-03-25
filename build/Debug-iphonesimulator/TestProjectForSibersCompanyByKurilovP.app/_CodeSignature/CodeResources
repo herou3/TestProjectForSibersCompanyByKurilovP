@@ -4,13 +4,21 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AppIcon60x60@2x.png</key>
+		<data>
+		5wLneud8g3pjFz6+VS/sL5zQMuE=
+		</data>
+		<key>AppIcon76x76@2x~ipad.png</key>
+		<data>
+		FairLO0nbqJ/JZVOvi543lfTmJs=
+		</data>
 		<key>Assets.car</key>
 		<data>
-		TdclJ5t5uX2qnYf+XWKurca4vO8=
+		Va5Np6bGULUjHWrzZyObrYAjPvU=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		rb+o3SJ8HfMZd1sHA7p7mv0SI6M=
+		/CVOv0HvxVhavJDPFwqlVffogzU=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -18,7 +26,7 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		tZ5MiP/Q7ecZfAZcQL3UVdQ98jI=
+		/tnbagiWB3knKKrMW2/CfP8Xers=
 		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
@@ -74,7 +82,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		eq/GCn74r7hdFyPnI494FxcAHYw=
+		q4NlrM0G72/fuF0mby5qdWjQbFs=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -87,18 +95,32 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>AppIcon60x60@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Nx+JSu/8RcIU9F2CugUHdOn2gaDSpFHa5drN2sdMQmQ=
+			</data>
+		</dict>
+		<key>AppIcon76x76@2x~ipad.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EKNEDIZfY8gEH2c6hLG5Fb3ygPZVWe0ttF6ltwOAxJI=
+			</data>
+		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HjMWJGrH030rYN2H+u3P3CJPuz1bTzo0/oW+EL0GnQY=
+			vwa4lzvb4399OmcumkgLziUZduDKHbDWuVsCFjWSpno=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cfvmnAF0FRYJ+rXpJdxtHMQ/wmIwFKapDajTEOH9sM8=
+			cU21IcY2XcLhv0ZoHS+Eg6kMMc/rzVLX2YyTt7MVe9U=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -112,7 +134,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/WjvRl1oZ5AHzSr7qZ7CUzbXF4iO+vIcAhF7EfkyvBM=
+			fMe958I6Cl91/gjkAT1mfO0J3EwoAv99qyKgik3lLg0=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCore.dylib</key>

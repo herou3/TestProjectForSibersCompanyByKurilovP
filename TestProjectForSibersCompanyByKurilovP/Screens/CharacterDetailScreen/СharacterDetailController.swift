@@ -71,8 +71,10 @@ class СharacterDetailController: UIViewController {
         guard let detailInfoCellViewModel = viewModel as? CharacterDetailCellViewModel else {
             return UITableViewCell()
         }
-        guard let detailInfoCell = tableView.dequeueReusableCell(withIdentifier: characterDetailCellReuseIdentifier, for: indexPath)
-            as? CharacterDetailTableCell else { return UITableViewCell(style: .default, reuseIdentifier: characterDetailCellReuseIdentifier) }
+        guard let detailInfoCell = tableView.dequeueReusableCell(withIdentifier: characterDetailCellReuseIdentifier,
+                                                                 for: indexPath)
+            as? CharacterDetailTableCell else { return UITableViewCell(style: .default,
+                                                                       reuseIdentifier: characterDetailCellReuseIdentifier) }
         detailInfoCell.configure(with: detailInfoCellViewModel)
         return detailInfoCell
     }
@@ -83,8 +85,10 @@ class СharacterDetailController: UIViewController {
         guard let detailInfoCellViewModel = viewModel as? CharacterImageCellViewModel else {
             return UITableViewCell()
         }
-        guard let characterImageCell = tableView.dequeueReusableCell(withIdentifier: characterImageCellReuseIdentifier, for: indexPath)
-            as? CharacterImageTableCell else { return UITableViewCell(style: .default, reuseIdentifier: characterImageCellReuseIdentifier) }
+        guard let characterImageCell = tableView.dequeueReusableCell(withIdentifier: characterImageCellReuseIdentifier,
+                                                                     for: indexPath)
+            as? CharacterImageTableCell else { return UITableViewCell(style: .default,
+                                                                      reuseIdentifier: characterImageCellReuseIdentifier) }
         characterImageCell.configure(with: detailInfoCellViewModel)
         return characterImageCell
     }

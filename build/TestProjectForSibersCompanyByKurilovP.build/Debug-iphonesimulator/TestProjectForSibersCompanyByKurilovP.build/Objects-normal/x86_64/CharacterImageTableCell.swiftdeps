@@ -127,7 +127,6 @@ depends-member:
 - !private ["37TestProjectForSibersCompanyByKurilovP23CharacterImageTableCellC", "centerYAnchor"]
 - !private ["37TestProjectForSibersCompanyByKurilovP23CharacterImageTableCellC", "characterImageView"]
 - ["37TestProjectForSibersCompanyByKurilovP23CharacterImageTableCellC", "configure"]
-- ["37TestProjectForSibersCompanyByKurilovP23CharacterImageTableCellC", "deinit"]
 - !private ["37TestProjectForSibersCompanyByKurilovP23CharacterImageTableCellC", "fatalError"]
 - ["37TestProjectForSibersCompanyByKurilovP23CharacterImageTableCellC", "init"]
 - !private ["37TestProjectForSibersCompanyByKurilovP23CharacterImageTableCellC", "leftAnchor"]

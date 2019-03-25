@@ -46,7 +46,7 @@ class CharacterDetailViewModel: CharacterDetailViewModelProtocol {
     private var character: Character?
     private var charactersListViewModels: [CharacterDetailTableCellViewModelProtocol] = []
     private let networRequests: NetworkRequests = NetworkRequests()
-    var delegate: CharacterDetailViewModelDelegate?
+    weak var delegate: CharacterDetailViewModelDelegate?
     var callAlertBlock: ((_ textTitle: String, _ textMessage: String) -> Void)?
     var requestUpdatedBlock: (() -> Void)?
     
@@ -109,11 +109,13 @@ class CharacterDetailViewModel: CharacterDetailViewModelProtocol {
             charactersListViewModels.append(genderChararcterCellViewModel)
         }
         if self.originLocation?.isEmpty == false {
-            let originLocationChararcterCellViewModel = CharacterDetailCellViewModel(value: self.originLocation, cellType: .originLocationName)
+            let originLocationChararcterCellViewModel = CharacterDetailCellViewModel(value: self.originLocation,
+                                                                                     cellType: .originLocationName)
             charactersListViewModels.append(originLocationChararcterCellViewModel)
         }
         if self.curentLocation?.isEmpty == false {
-            let curentLocationnChararcterCellViewModel = CharacterDetailCellViewModel(value: self.curentLocation, cellType: .curentLocationName)
+            let curentLocationnChararcterCellViewModel = CharacterDetailCellViewModel(value: self.curentLocation,
+                                                                                      cellType: .curentLocationName)
             charactersListViewModels.append(curentLocationnChararcterCellViewModel)
         }
     }
@@ -121,8 +123,9 @@ class CharacterDetailViewModel: CharacterDetailViewModelProtocol {
     func loadInformationCharacter(use id: Int) {
         guard ReachabilityConnect.isConnectedToNetwork() else {
             callAlertBlock?("Oops, you have problem",
-                            "The Internet connection appears to be offline") // Текста ошибок, по-хорошому, выносятся в файл локализации,
-                                                                             // но тут, я думаю, что не столь крритично это
+                            "The Internet connection appears to be offline")
+            // Текста ошибок, по-хорошому, выносятся в файл
+            // но тут, я думаю, что не столь крритично это
             return
         }
         networRequests.getFeedCharacter(from: .characterId, use: "\(id)") { (result) in

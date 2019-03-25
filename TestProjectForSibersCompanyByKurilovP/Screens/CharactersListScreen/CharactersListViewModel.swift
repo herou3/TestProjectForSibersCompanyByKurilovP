@@ -37,7 +37,9 @@ class CharactersListViewModel: CharactersListViewModelProtocol {
         
         guard ReachabilityConnect.isConnectedToNetwork() else {
             callAlertBlock?("Oops, you have problem",
-                            "The Internet connection appears to be offline") // Текста ошибок, по-хорошому, выносятся в файл локализации, но тут, я думаю, что не столь крритично это
+                            "The Internet connection appears to be offline")
+            // Текста ошибок, по-хорошому,
+            // выносятся в файл локализации, но тут, я думаю, что не столь крритично это
             return
         }
         startActivityIndicatorBlock?()

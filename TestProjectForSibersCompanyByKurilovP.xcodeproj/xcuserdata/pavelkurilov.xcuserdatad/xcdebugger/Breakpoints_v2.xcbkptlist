@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TestProjectForSibersCompanyByKurilovP/Screens/CharactersListScreen/CharactersListViewModel.swift"
-            timestampString = "575227986.125432"
+            timestampString = "575228728.6095231"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "63"
-            endingLineNumber = "63"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
             landmarkName = "numberOfRows(inSection:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -26,11 +26,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TestProjectForSibersCompanyByKurilovP/Screens/CharactersListScreen/CharactersListViewModel.swift"
-            timestampString = "575227986.136574"
+            timestampString = "575228728.690016"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "48"
-            endingLineNumber = "48"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
             landmarkName = "loadCharactersData(_:_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -42,7 +42,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TestProjectForSibersCompanyByKurilovP/Screens/CharactersListScreen/CharactersListController.swift"
-            timestampString = "575227986.140005"
+            timestampString = "575228728.703096"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "30"
@@ -58,11 +58,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TestProjectForSibersCompanyByKurilovP/Screens/CharacterDetailScreen/CharacterDetailViewModel.swift"
-            timestampString = "575227986.148013"
+            timestampString = "575228728.70568"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "133"
-            endingLineNumber = "133"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
             landmarkName = "loadInformationCharacter(use:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -74,13 +74,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TestProjectForSibersCompanyByKurilovP/Screens/CharacterDetailScreen/CharacterDetailViewModel.swift"
-            timestampString = "575227986.152815"
+            timestampString = "575228728.71746"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "136"
-            endingLineNumber = "136"
-            landmarkName = "CharacterDetailViewModel"
-            landmarkType = "3">
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "loadInformationCharacter(use:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -90,11 +90,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TestProjectForSibersCompanyByKurilovP/Screens/CharacterDetailScreen/&#x421;haracterDetailController.swift"
-            timestampString = "575227986.159093"
+            timestampString = "575228728.721514"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "132"
-            endingLineNumber = "132">
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -104,7 +106,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TestProjectForSibersCompanyByKurilovP/Extensions/UIImageView+Cache.swift"
-            timestampString = "575227986.168437"
+            timestampString = "575228728.73676"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "49"
@@ -120,7 +122,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TestProjectForSibersCompanyByKurilovP/Screens/CharacterImageScreen/CharactersImageController.swift"
-            timestampString = "575227986.169543"
+            timestampString = "575228728.739171"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "19"
@@ -136,7 +138,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TestProjectForSibersCompanyByKurilovP/Screens/CharactersListScreen/CharactersListCoordinator.swift"
-            timestampString = "575227986.172171"
+            timestampString = "575228728.741678"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "53"
@@ -152,7 +154,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TestProjectForSibersCompanyByKurilovP/Screens/CharactersListScreen/CharactersListCoordinator.swift"
-            timestampString = "575227986.176376"
+            timestampString = "575228728.743066"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "54"
@@ -168,7 +170,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TestProjectForSibersCompanyByKurilovP/Screens/CharacterImageScreen/CharacterImageView.swift"
-            timestampString = "575227986.179346"
+            timestampString = "575228728.7446671"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "47"
@@ -184,11 +186,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TestProjectForSibersCompanyByKurilovP/Screens/CharacterDetailScreen/&#x421;haracterDetailController.swift"
-            timestampString = "575227986.1808209"
+            timestampString = "575228728.745912"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "130"
-            endingLineNumber = "130">
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

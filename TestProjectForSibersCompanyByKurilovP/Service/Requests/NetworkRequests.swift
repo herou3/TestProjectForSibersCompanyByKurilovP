@@ -45,8 +45,8 @@ class NetworkRequests: NetworkManager {
     }
     
     func getFeedCharacter(from requestType: RequestFeeds,
-                 use id: String,
-                 completion: @escaping (Result<Character?, NetworkManagerError>) -> Void) {
+                          use id: String,
+                          completion: @escaping (Result<Character?, NetworkManagerError>) -> Void) {
         let localRequest = requestType.requestCharacterDetail(id)
         fetch(with: localRequest, decode: { json -> Character? in
             guard let weatherFeedResult = json as? Character else { return  nil }

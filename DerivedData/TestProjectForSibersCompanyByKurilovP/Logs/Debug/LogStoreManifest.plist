@@ -1630,6 +1630,35 @@
 			<key>uniqueIdentifier</key>
 			<string>8CE194AC-6A21-410A-AA64-93548DF9826B</string>
 		</dict>
+		<key>9272D820-A8D0-4DD9-9865-52B899CAFFA7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9272D820-A8D0-4DD9-9865-52B899CAFFA7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575228573.32232296</real>
+			<key>timeStoppedRecording</key>
+			<real>575228631.99433398</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>9272D820-A8D0-4DD9-9865-52B899CAFFA7</string>
+		</dict>
 		<key>92DEFD2B-B858-434F-86AB-24B9B4D61E10</key>
 		<dict>
 			<key>className</key>
@@ -1687,6 +1716,35 @@
 			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
 			<key>uniqueIdentifier</key>
 			<string>97699AED-EDBC-45E8-AAA0-509AB4C796EF</string>
+		</dict>
+		<key>99443BCB-2E3B-4068-9DC9-782EFCABDBF1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>99443BCB-2E3B-4068-9DC9-782EFCABDBF1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestProjectForSibersCompanyByKurilovP project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestProjectForSibersCompanyByKurilovP</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>timeStartedRecording</key>
+			<real>575228654.85686398</real>
+			<key>timeStoppedRecording</key>
+			<real>575228845.01517606</real>
+			<key>title</key>
+			<string>Debug TestProjectForSibersCompanyByKurilovP</string>
+			<key>uniqueIdentifier</key>
+			<string>99443BCB-2E3B-4068-9DC9-782EFCABDBF1</string>
 		</dict>
 		<key>9D8B8555-CBBB-43FF-A420-B859B4FB65C4</key>
 		<dict>

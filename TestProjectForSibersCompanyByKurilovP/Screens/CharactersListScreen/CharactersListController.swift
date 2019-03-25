@@ -185,7 +185,6 @@ extension CharactersListController: UITableViewDataSource, UITableViewDelegate {
     }
 }
 
-
 // MARK: - extension UISearchBarDelegate
 extension CharactersListController: UISearchBarDelegate {
     
