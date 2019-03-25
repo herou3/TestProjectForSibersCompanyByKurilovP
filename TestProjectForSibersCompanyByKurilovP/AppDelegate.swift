@@ -24,6 +24,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         coordinator.start()
 //        let charactersListViewModel: CharactersListViewModel = CharactersListViewModel()
 //        charactersListViewModel.filterContentBySearchText("Rick")
+        
+//        let char = CharacterDetailViewModel(character: Character(id: 12, name: "test", status: "dgsd", species: "gdsg", type: "gdsdg", gender: "zgsdg", origin: Origin(name: "gdsg", url: "sdg"), location: Location(name: "gsd", url: "gdsg"), image: "gsdg", episodes: ["sdf"], url: "sdgsdg", created: "sgsdg"))
+//        char.loadInformationCharacter(use: 12)
         return true
     }
 

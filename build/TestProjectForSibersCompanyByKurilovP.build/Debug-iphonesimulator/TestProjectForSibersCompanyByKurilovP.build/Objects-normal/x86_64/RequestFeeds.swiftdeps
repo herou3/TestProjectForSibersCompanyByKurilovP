@@ -41,6 +41,7 @@ depends-member:
 - ["SQ", ""]
 - ["SQ", "base"]
 - ["SQ", "character"]
+- ["SQ", "characterId"]
 - ["SQ", "hash"]
 - ["SQ", "hashValue"]
 - !private ["SQ", "init"]
@@ -56,6 +57,7 @@ depends-member:
 - ["SH", ""]
 - ["SH", "base"]
 - ["SH", "character"]
+- ["SH", "characterId"]
 - ["SH", "hash"]
 - ["SH", "hashValue"]
 - !private ["SH", "init"]
@@ -70,6 +72,7 @@ depends-member:
 - ["37TestProjectForSibersCompanyByKurilovP15NetworkEndpointP", ""]
 - ["37TestProjectForSibersCompanyByKurilovP15NetworkEndpointP", "base"]
 - ["37TestProjectForSibersCompanyByKurilovP15NetworkEndpointP", "character"]
+- ["37TestProjectForSibersCompanyByKurilovP15NetworkEndpointP", "characterId"]
 - ["37TestProjectForSibersCompanyByKurilovP15NetworkEndpointP", "hash"]
 - ["37TestProjectForSibersCompanyByKurilovP15NetworkEndpointP", "hashValue"]
 - ["37TestProjectForSibersCompanyByKurilovP15NetworkEndpointP", "path"]
@@ -80,6 +83,7 @@ depends-member:
 - ["37TestProjectForSibersCompanyByKurilovP12RequestFeedsO", "__derived_enum_equals"]
 - ["37TestProjectForSibersCompanyByKurilovP12RequestFeedsO", "base"]
 - ["37TestProjectForSibersCompanyByKurilovP12RequestFeedsO", "character"]
+- ["37TestProjectForSibersCompanyByKurilovP12RequestFeedsO", "characterId"]
 - ["37TestProjectForSibersCompanyByKurilovP12RequestFeedsO", "deinit"]
 - ["37TestProjectForSibersCompanyByKurilovP12RequestFeedsO", "hash"]
 - ["37TestProjectForSibersCompanyByKurilovP12RequestFeedsO", "hashValue"]
@@ -169,4 +173,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "df7b71b5b2904456576296d9d7682976"
+interface-hash: "2ed59e89e165da2256d15ae0dc6f10f0"

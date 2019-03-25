@@ -39,7 +39,7 @@ extension NetworkEndpoint {
     }
     
     func requestCharacterDetail(_ id: String) -> URLRequest {
-        let url = URLRequest(url: URL(string: "\(Constant.baseUrl)/character/\(id)") ??
+        let url = URLRequest(url: URL(string: "\(Constant.baseUrl)/api/character/\(id)") ??
                                   URL(fileURLWithPath: ""))
         return url
     }

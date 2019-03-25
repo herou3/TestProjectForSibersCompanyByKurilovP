@@ -7,6 +7,7 @@ provides-member:
 - ["So7UIColorC", "darkTurquoise"]
 - ["So7UIColorC", "crystal"]
 - ["So7UIColorC", "shadeOfCyan"]
+- ["So7UIColorC", "aliceBlue"]
 provides-dynamic-lookup:
 depends-top-level:
 - !private "/"
@@ -44,6 +45,7 @@ depends-member:
 - !private ["So21NSItemProviderWritingP", "init"]
 - ["So8NSObjectC", "CGFloat"]
 - ["So8NSObjectC", "UIColor"]
+- ["So8NSObjectC", "aliceBlue"]
 - ["So8NSObjectC", "color"]
 - ["So8NSObjectC", "crystal"]
 - ["So8NSObjectC", "darkTurquoise"]
@@ -57,6 +59,7 @@ depends-member:
 - !private ["So14NSSecureCodingP", "init"]
 - ["So7UIColorC", "CGFloat"]
 - ["So7UIColorC", "UIColor"]
+- ["So7UIColorC", "aliceBlue"]
 - ["So7UIColorC", "color"]
 - ["So7UIColorC", "crystal"]
 - ["So7UIColorC", "darkTurquoise"]
@@ -110,4 +113,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "bf49472194413202c47c5d604b9fefb7"
+interface-hash: "edfa90146952f7608ca205ed1175deb1"

@@ -27,7 +27,7 @@ extension NetworkManager {
                     return
                 }
                 print(response ?? URLResponse())
-                if httpResponse.statusCode == 200 {
+                if httpResponse.statusCode == 200 || httpResponse.statusCode == 304 {
                     if let data = data {
                         do {
                             let genericModel = try JSONDecoder().decode(decodingType, from: data)

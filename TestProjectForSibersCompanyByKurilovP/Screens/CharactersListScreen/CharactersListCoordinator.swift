@@ -39,11 +39,18 @@ final class CharactersListCoordinator {
         navigationController?.pushViewController(controller, animated: false)
         controller.navigationItem.title = "Characters List"
     }
+    
+    private func showDetailCharacter(_ character: Character) {
+        let viewModel = CharacterDetailViewModel(character: character)
+        let detailController = СharacterDetailController(viewModel: viewModel)
+        detailController.navigationItem.title = viewModel.name
+        navigationController?.pushViewController(detailController, animated: true)
+    }
 }
 
 extension CharactersListCoordinator: CharactersListViewModelDelegate {
     
     func charactersListViewModel(_ viewModel: CharactersListViewModel, didSelectCar character: Character) {
-        
+        showDetailCharacter(character)
     }
 }

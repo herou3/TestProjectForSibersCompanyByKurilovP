@@ -67,6 +67,7 @@ depends-member:
 - ["37TestProjectForSibersCompanyByKurilovP15NetworkRequestsC", "deinit"]
 - ["37TestProjectForSibersCompanyByKurilovP15NetworkRequestsC", "fetch"]
 - ["37TestProjectForSibersCompanyByKurilovP15NetworkRequestsC", "getFeed"]
+- ["37TestProjectForSibersCompanyByKurilovP15NetworkRequestsC", "getFeedCharacter"]
 - ["37TestProjectForSibersCompanyByKurilovP15NetworkRequestsC", "init"]
 - ["37TestProjectForSibersCompanyByKurilovP15NetworkRequestsC", "session"]
 - !private ["37TestProjectForSibersCompanyByKurilovP12RequestFeedsO", "deinit"]
@@ -122,4 +123,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "a249ff5741d2f4eeba1d27358bcf5117"
+interface-hash: "266ab2daba533c1acde94290b4c1bfbc"

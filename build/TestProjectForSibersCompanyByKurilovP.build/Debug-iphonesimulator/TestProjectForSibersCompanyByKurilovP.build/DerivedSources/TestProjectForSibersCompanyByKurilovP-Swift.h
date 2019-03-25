@@ -219,6 +219,13 @@ SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP11DefaultCell")
 @end
 
 
+SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP24CharacterDetailTableCell")
+@interface CharacterDetailTableCell : DefaultCell
+- (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP18CharacterTableCell")
 @interface CharacterTableCell : DefaultCell
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER;
@@ -241,9 +248,7 @@ SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP24CharactersListControll
 - (void)searchBarSearchButtonClicked:(UISearchBar * _Nonnull)searchBar;
 - (BOOL)searchBarShouldBeginEditing:(UISearchBar * _Nonnull)searchBar SWIFT_WARN_UNUSED_RESULT;
 - (void)searchBarCancelButtonClicked:(UISearchBar * _Nonnull)searchBar;
-- (void)searchBarTextDidEndEditing:(UISearchBar * _Nonnull)searchBar;
 - (BOOL)searchBarShouldEndEditing:(UISearchBar * _Nonnull)searchBar SWIFT_WARN_UNUSED_RESULT;
-- (void)searchBar:(UISearchBar * _Nonnull)searchBar textDidChange:(NSString * _Nonnull)searchText;
 @end
 
 @class UITableView;
@@ -275,6 +280,22 @@ SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP25DiscardableImageCacheI
 
 @interface UITextField (SWIFT_EXTENSION(TestProjectForSibersCompanyByKurilovP))
 - (void)clearWithSender:(id _Nonnull)sender;
+@end
+
+
+SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP26СharacterDetailController")
+@interface СharacterDetailController : UIViewController
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+- (void)viewDidLoad;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil SWIFT_UNAVAILABLE;
+@end
+
+
+@interface СharacterDetailController (SWIFT_EXTENSION(TestProjectForSibersCompanyByKurilovP)) <UITableViewDataSource, UITableViewDelegate>
+- (NSInteger)numberOfSectionsInTableView:(UITableView * _Nonnull)tableView SWIFT_WARN_UNUSED_RESULT;
+- (NSInteger)tableView:(UITableView * _Nonnull)tableView numberOfRowsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
+- (CGFloat)tableView:(UITableView * _Nonnull)tableView heightForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
+- (UITableViewCell * _Nonnull)tableView:(UITableView * _Nonnull)tableView cellForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
 @end
 
 #if __has_attribute(external_source_symbol)

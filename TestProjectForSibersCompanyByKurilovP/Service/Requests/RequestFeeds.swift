@@ -10,6 +10,7 @@ import Foundation
 
 enum RequestFeeds {
     case character
+    case characterId
 }
 
 extension RequestFeeds: NetworkEndpoint {
@@ -22,6 +23,7 @@ extension RequestFeeds: NetworkEndpoint {
     var path: String {
         switch self {
         case .character: return "/api/character/"
+        case .characterId: return ""
         }
     }
 

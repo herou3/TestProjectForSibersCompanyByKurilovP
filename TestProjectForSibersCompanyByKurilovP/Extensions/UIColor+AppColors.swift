@@ -27,4 +27,8 @@ extension UIColor {
     class var shadeOfCyan: UIColor {
         return color(100, 129, 133)
     }
+    
+    class var aliceBlue: UIColor {
+        return color(240, 248, 255)
+    }
 }

@@ -27,6 +27,7 @@ depends-top-level:
 - "URLSessionDataTask"
 - "Void"
 - !private "print"
+- !private "||"
 depends-member:
 - !private ["Sb", "_getBuiltinLogicValue"]
 - !private ["s7CVarArgP", "_getBuiltinLogicValue"]

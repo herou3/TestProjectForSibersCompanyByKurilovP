@@ -55,6 +55,7 @@ depends-member:
 - ["37TestProjectForSibersCompanyByKurilovP11DefaultCellC", "NSCoder"]
 - ["37TestProjectForSibersCompanyByKurilovP11DefaultCellC", "String"]
 - ["37TestProjectForSibersCompanyByKurilovP11DefaultCellC", "UITableViewCell"]
+- ["37TestProjectForSibersCompanyByKurilovP11DefaultCellC", "deinit"]
 - !private ["37TestProjectForSibersCompanyByKurilovP11DefaultCellC", "fatalError"]
 - ["37TestProjectForSibersCompanyByKurilovP11DefaultCellC", "init"]
 - ["37TestProjectForSibersCompanyByKurilovP11DefaultCellC", "setupViews"]

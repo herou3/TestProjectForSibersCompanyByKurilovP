@@ -150,7 +150,7 @@ extension CharactersListController: UITableViewDataSource, UITableViewDelegate {
             as? CharacterTableCell else { return UITableViewCell(style: .default,
                                                                reuseIdentifier: characterCellReuseIdentifier) }
         guard let cellViewModel = viewModel?.cellViewModel(forIndexPath: indexPath) else { return cell }
-        cell.updateDataForCell(viewModel: cellViewModel)
+        cell.configureData(viewModel: cellViewModel)
         cell.selectionStyle = .none
         return cell
     }
@@ -190,38 +190,18 @@ extension CharactersListController: UISearchBarDelegate {
     }
     
     func searchBarCancelButtonClicked(_ searchBar: UISearchBar) {
-        searchBar.endEditing(true)
-       // viewModel?.cancelSearchingProcess()
-       // self.tableView.reloadData()
         searchBar.showsCancelButton = false
         searchBar.text = ""
+        searchBar.endEditing(true)
         self.tableView.reloadData()
     }
     
-    func searchBarTextDidEndEditing(_ searchBar: UISearchBar) {
-//        if !self.isSearhBarEmpty {
-//            guard let searchText = searchBar.text else { return }
-//            viewModel?.filterContentForSearchText(searchText)
-//            tableView.reloadData()
-//        } else {
-//            viewModel?.cancelSearchingProcess()
-//            tableView.reloadData()
-//        }
-    }
-    
     func searchBarShouldEndEditing(_ searchBar: UISearchBar) -> Bool {
-        viewModel?.filterContentBySearchText(searchBar.text ?? "")
+        if searchBar.text == "" {
+            return true
+        } else {
+            viewModel?.filterContentBySearchText(searchBar.text ?? "")
+        }
         return true
-    }
-    
-    func searchBar(_ searchBar: UISearchBar, textDidChange searchText: String) {
-//        if !self.isSearhBarEmpty {
-//            guard let searchText = searchBar.text else { return }
-//            viewModel?.filterContentForSearchText(searchText)
-//            tableView.reloadData()
-//        } else {
-//            viewModel?.cancelSearchingProcess()
-//            tableView.reloadData()
-//        }
     }
 }

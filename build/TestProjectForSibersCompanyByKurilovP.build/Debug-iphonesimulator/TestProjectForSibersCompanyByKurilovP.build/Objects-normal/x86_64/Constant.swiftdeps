@@ -24,6 +24,7 @@ depends-member:
 - ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "CGFloat"]
 - ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "String"]
 - ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "baseUrl"]
+- ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "fontSizeValue"]
 - ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "imageSizeValue"]
 - ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "init"]
 - ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "labelSizeValue"]
@@ -139,4 +140,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "f722c837192fc2bf271b7f47a1a59f49"
+interface-hash: "6e66f6d1239b8e1427dacb5bc988b9b0"

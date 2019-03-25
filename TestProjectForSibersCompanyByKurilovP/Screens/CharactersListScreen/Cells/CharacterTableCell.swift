@@ -130,7 +130,7 @@ class CharacterTableCell: DefaultCell {
         addGenderLabel()
     }
     
-    func updateDataForCell(viewModel: CharactersListTableCellViewModelProtocol) {
+    func configureData(viewModel: CharactersListTableCellViewModelProtocol) {
         characterImageView.loadImage(urlString: viewModel.image)
         nameLabel.text = viewModel.name
         statusLabel.text = viewModel.status

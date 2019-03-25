@@ -44,7 +44,7 @@ class NetworkRequests: NetworkManager {
         }, completion: completion)
     }
     
-    func getFeed(from requestType: RequestFeeds,
+    func getFeedCharacter(from requestType: RequestFeeds,
                  use id: String,
                  completion: @escaping (Result<Character?, NetworkManagerError>) -> Void) {
         let localRequest = requestType.requestCharacterDetail(id)

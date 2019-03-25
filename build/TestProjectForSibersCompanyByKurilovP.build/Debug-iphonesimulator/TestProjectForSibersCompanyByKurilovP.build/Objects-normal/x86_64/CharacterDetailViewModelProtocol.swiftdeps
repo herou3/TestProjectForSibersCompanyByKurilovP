@@ -7,22 +7,26 @@ provides-member:
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", ""]
 provides-dynamic-lookup:
 depends-top-level:
+- "CachedImageView"
 - "CharacterDetailTableCellViewModelProtocol"
 - "CharacterDetailViewModelProtocol"
 - "IndexPath"
 - "Int"
 - "String"
-- "UIImage"
+- "Void"
 depends-member:
+- ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "CachedImageView"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "CharacterDetailTableCellViewModelProtocol"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "IndexPath"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "Int"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "String"]
-- ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "UIImage"]
+- ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "Void"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "curentLocation"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "detailTableCellViewModel"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "gender"]
+- ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "id"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "image"]
+- ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "loadInformationCharacter"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "name"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "numberOfRows"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "originLocation"]
@@ -57,4 +61,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "60f2afd8224b8aef3b4dab7095e16287"
+interface-hash: "90c40c0e1b732e8464618898c289be26"
