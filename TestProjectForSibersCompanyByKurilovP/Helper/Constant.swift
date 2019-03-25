@@ -17,4 +17,6 @@ struct Constant {
     static let labelSizeValue: CGFloat = 100.0
     static let searchBarSizeValueH: CGFloat = 64.0
     static let fontSizeValue: CGFloat = 20.0
+    static let characterImageSizeValue: CGFloat = 300
+    static let characterDetailCellSizeValue: CGFloat = 60
 }

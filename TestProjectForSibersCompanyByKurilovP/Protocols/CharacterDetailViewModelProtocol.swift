@@ -19,7 +19,7 @@ protocol CharacterDetailViewModelProtocol {
     var gender: String? { get }
     var originLocation: String? { get }
     var curentLocation: String? { get }
-    var image: CachedImageView? { get }
+    var image: String? { get }
     var numberOfRows: Int? { get }
     
     // MARK: - Protocols methods

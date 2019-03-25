@@ -9,7 +9,8 @@
 import UIKit
 
 enum DefaultCellType {
-    case nameCharacter, statusCharacter, speciesCharacter, typeCharacter, gendeCharacter, originLocationName, curentLocationName
+    case nameCharacter, statusCharacter, speciesCharacter, typeCharacter, gendeCharacter,
+    originLocationName, curentLocationName, imageChararcter
     
     var description: String {
         switch self {
@@ -27,6 +28,8 @@ enum DefaultCellType {
             return "Origin location"
         case .curentLocationName:
             return "Curent location"
+        case .imageChararcter:
+            return "Image character"
         }
     }
 }
@@ -49,7 +52,7 @@ class CharacterDetailViewModel: CharacterDetailViewModelProtocol {
     var gender: String?
     var originLocation: String?
     var curentLocation: String?
-    var image: CachedImageView?
+    var image: String?
     
     var numberOfRows: Int? {
         return charactersListViewModels.count
@@ -68,13 +71,17 @@ class CharacterDetailViewModel: CharacterDetailViewModelProtocol {
         self.gender = character?.gender
         self.originLocation = character?.origin?.name
         self.curentLocation = character?.location?.name
-        self.image?.loadImage(urlString: character?.image ?? "")
+        self.image = character?.image
         makeCellsViewModel()
     }
     
     // MARK: - Make cells view model
     private func makeCellsViewModel() {
         
+        if self.image?.isEmpty == false {
+            let imageCharacterCellViewModel = CharacterImageCellViewModel(value: self.image, cellType: .imageChararcter)
+            charactersListViewModels.append(imageCharacterCellViewModel)
+        }
         if self.name?.isEmpty == false {
             let nameChararcterCellViewModel = CharacterDetailCellViewModel(value: self.name, cellType: .nameCharacter)
             charactersListViewModels.append(nameChararcterCellViewModel)

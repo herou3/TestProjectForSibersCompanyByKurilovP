@@ -226,6 +226,13 @@ SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP24CharacterDetailTableCe
 @end
 
 
+SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP23CharacterImageTableCell")
+@interface CharacterImageTableCell : DefaultCell
+- (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC37TestProjectForSibersCompanyByKurilovP18CharacterTableCell")
 @interface CharacterTableCell : DefaultCell
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER;

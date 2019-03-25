@@ -73,7 +73,7 @@ open class CachedImageView: UIImageView {
                 if let image = UIImage(data: data!) {
                     let cacheItem = DiscardableImageCacheItem(image: image)
                     CachedImageView.imageCache.setObject(cacheItem, forKey: urlKey)
-                    
+    
                     if urlString == self?.urlStringForChecking {
                         self?.image = image
                         completion?()

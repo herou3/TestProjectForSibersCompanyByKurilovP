@@ -13,6 +13,7 @@ class СharacterDetailController: UIViewController {
     // MARK: - Properties
     private var characterDetailViewModel: CharacterDetailViewModel?
     private let characterDetailCellReuseIdentifier = "cellDetailId"
+    private let characterImageCellReuseIdentifier = "cellImageId"
     private let dataTableView: UITableView = UITableView()
     
     // MARK: - Init / deinit
@@ -50,6 +51,8 @@ class СharacterDetailController: UIViewController {
         dataTableView.backgroundColor = UIColor.white
         dataTableView.register(CharacterDetailTableCell.self,
                            forCellReuseIdentifier: characterDetailCellReuseIdentifier)
+        dataTableView.register(CharacterImageTableCell.self,
+                               forCellReuseIdentifier: characterImageCellReuseIdentifier)
         dataTableView.showsHorizontalScrollIndicator = false
         dataTableView.dataSource = self
         dataTableView.delegate = self
@@ -72,6 +75,18 @@ class СharacterDetailController: UIViewController {
         detailInfoCell.configure(with: detailInfoCellViewModel)
         return detailInfoCell
     }
+    
+    func getCharacterImageCell(with viewModel: CharacterDetailTableCellViewModelProtocol,
+                               and indexPath: IndexPath,
+                               in tableView: UITableView) -> UITableViewCell {
+        guard let detailInfoCellViewModel = viewModel as? CharacterImageCellViewModel else {
+            return UITableViewCell()
+        }
+        guard let characterImageCell = tableView.dequeueReusableCell(withIdentifier: characterImageCellReuseIdentifier, for: indexPath)
+            as? CharacterImageTableCell else { return UITableViewCell(style: .default, reuseIdentifier: characterImageCellReuseIdentifier) }
+        characterImageCell.configure(with: detailInfoCellViewModel)
+        return characterImageCell
+    }
 }
 
 // MARK: - Extension table data source
@@ -87,7 +102,12 @@ extension СharacterDetailController: UITableViewDataSource, UITableViewDelegate
     
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
         
-        return 60
+        let detailCellViewModel = characterDetailViewModel?.detailTableCellViewModel(forIndexPath: indexPath)
+        guard let viewModel = detailCellViewModel as? CharacterImageCellViewModel else {
+            return Constant.characterDetailCellSizeValue
+        }
+        
+        return Constant.characterImageSizeValue
     }
     
     func tableView(_ tableView: UITableView,
@@ -96,6 +116,9 @@ extension СharacterDetailController: UITableViewDataSource, UITableViewDelegate
         let detailCellViewModel = characterDetailViewModel?.detailTableCellViewModel(forIndexPath: indexPath) ??
             CharacterDetailCellViewModel(value: characterDetailViewModel?.name, cellType: .nameCharacter)
         
+        guard let viewModel = detailCellViewModel as? CharacterImageCellViewModel else {
             return self.getDetailInfoCell(with: detailCellViewModel, and: indexPath, in: dataTableView)
+        }
+            return self.getCharacterImageCell(with: viewModel, and: indexPath, in: dataTableView)
     }
 }

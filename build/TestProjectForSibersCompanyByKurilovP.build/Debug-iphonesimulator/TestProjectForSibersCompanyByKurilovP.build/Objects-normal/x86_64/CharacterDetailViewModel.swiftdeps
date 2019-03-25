@@ -11,15 +11,14 @@ provides-member:
 provides-dynamic-lookup:
 depends-top-level:
 - "=="
-- !private "??"
 - "AssignmentPrecedence"
 - !private "BooleanLiteralType"
-- "CachedImageView"
 - "Character"
 - !private "CharacterDetailCellViewModel"
 - "CharacterDetailTableCellViewModelProtocol"
 - "CharacterDetailViewModel"
 - "CharacterDetailViewModelProtocol"
+- !private "CharacterImageCellViewModel"
 - "DefaultCellType"
 - "IndexPath"
 - "Int"
@@ -44,16 +43,13 @@ depends-member:
 - !private ["SK", "row"]
 - !private ["SK", "subscript"]
 - !private ["Sb", "_getBuiltinLogicValue"]
-- !private ["So15CALayerDelegateP", "loadImage"]
 - !private ["s7CVarArgP", "_getBuiltinLogicValue"]
 - !private ["s7CVarArgP", "append"]
 - !private ["s7CVarArgP", "count"]
 - !private ["s7CVarArgP", "init"]
 - !private ["s7CVarArgP", "init"]
 - !private ["s7CVarArgP", "isEmpty"]
-- !private ["s7CVarArgP", "loadImage"]
 - !private ["s7CVarArgP", "subscript"]
-- !private ["37TestProjectForSibersCompanyByKurilovP15CachedImageViewC", "loadImage"]
 - !private ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "gender"]
 - !private ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "id"]
 - !private ["37TestProjectForSibersCompanyByKurilovP9CharacterV", "image"]
@@ -66,10 +62,10 @@ depends-member:
 - !private ["37TestProjectForSibersCompanyByKurilovP28CharacterDetailCellViewModelC", "deinit"]
 - !private ["37TestProjectForSibersCompanyByKurilovP28CharacterDetailCellViewModelC", "init"]
 - !private ["37TestProjectForSibersCompanyByKurilovP41CharacterDetailTableCellViewModelProtocolP", "init"]
-- ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "CachedImageView"]
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "Character"]
 - !private ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "CharacterDetailCellViewModel"]
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "CharacterDetailTableCellViewModelProtocol"]
+- !private ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "CharacterImageCellViewModel"]
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "IndexPath"]
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "Int"]
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "NetworkRequests"]
@@ -98,6 +94,7 @@ depends-member:
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "status"]
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC", "type"]
 - !private ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "CharacterDetailCellViewModel"]
+- !private ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "CharacterImageCellViewModel"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "NetworkRequests"]
 - !private ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "ReachabilityConnect"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", ""]
@@ -120,6 +117,8 @@ depends-member:
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "species"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "status"]
 - ["37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP", "type"]
+- !private ["37TestProjectForSibersCompanyByKurilovP27CharacterImageCellViewModelC", "deinit"]
+- !private ["37TestProjectForSibersCompanyByKurilovP27CharacterImageCellViewModelC", "init"]
 - !private ["Sl", "append"]
 - !private ["Sl", "count"]
 - !private ["Sl", "init"]
@@ -136,7 +135,6 @@ depends-member:
 - !private ["s28CustomDebugStringConvertibleP", "init"]
 - !private ["s28CustomDebugStringConvertibleP", "init"]
 - !private ["s28CustomDebugStringConvertibleP", "isEmpty"]
-- !private ["s28CustomDebugStringConvertibleP", "loadImage"]
 - !private ["s28CustomDebugStringConvertibleP", "row"]
 - !private ["s28CustomDebugStringConvertibleP", "subscript"]
 - !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
@@ -157,7 +155,6 @@ depends-member:
 - !private ["s23CustomStringConvertibleP", "init"]
 - !private ["s23CustomStringConvertibleP", "init"]
 - !private ["s23CustomStringConvertibleP", "isEmpty"]
-- !private ["s23CustomStringConvertibleP", "loadImage"]
 - !private ["s23CustomStringConvertibleP", "row"]
 - !private ["s23CustomStringConvertibleP", "subscript"]
 - !private ["Se", "_getBuiltinLogicValue"]
@@ -185,6 +182,7 @@ depends-member:
 - ["37TestProjectForSibersCompanyByKurilovP15DefaultCellTypeO", "gendeCharacter"]
 - ["37TestProjectForSibersCompanyByKurilovP15DefaultCellTypeO", "hash"]
 - ["37TestProjectForSibersCompanyByKurilovP15DefaultCellTypeO", "hashValue"]
+- ["37TestProjectForSibersCompanyByKurilovP15DefaultCellTypeO", "imageChararcter"]
 - ["37TestProjectForSibersCompanyByKurilovP15DefaultCellTypeO", "nameCharacter"]
 - ["37TestProjectForSibersCompanyByKurilovP15DefaultCellTypeO", "originLocationName"]
 - ["37TestProjectForSibersCompanyByKurilovP15DefaultCellTypeO", "speciesCharacter"]
@@ -216,10 +214,10 @@ depends-member:
 - ["SQ", "gendeCharacter"]
 - ["SQ", "hash"]
 - ["SQ", "hashValue"]
+- ["SQ", "imageChararcter"]
 - !private ["SQ", "init"]
 - !private ["SQ", "init"]
 - !private ["SQ", "isEmpty"]
-- !private ["SQ", "loadImage"]
 - !private ["SQ", "localizedDescription"]
 - ["SQ", "nameCharacter"]
 - ["SQ", "originLocationName"]
@@ -252,10 +250,10 @@ depends-member:
 - ["SH", "gendeCharacter"]
 - ["SH", "hash"]
 - ["SH", "hashValue"]
+- ["SH", "imageChararcter"]
 - !private ["SH", "init"]
 - !private ["SH", "init"]
 - !private ["SH", "isEmpty"]
-- !private ["SH", "loadImage"]
 - !private ["SH", "localizedDescription"]
 - ["SH", "nameCharacter"]
 - ["SH", "originLocationName"]
@@ -279,15 +277,12 @@ depends-member:
 - !private ["SM", "row"]
 - !private ["SM", "subscript"]
 - !private ["So8NSCodingP", "isEmpty"]
-- !private ["So8NSCodingP", "loadImage"]
 - !private ["So9NSCopyingP", "isEmpty"]
 - !private ["So21NSItemProviderReadingP", "isEmpty"]
 - !private ["So21NSItemProviderWritingP", "isEmpty"]
 - !private ["So16NSMutableCopyingP", "isEmpty"]
 - !private ["So8NSObjectC", "isEmpty"]
-- !private ["So8NSObjectC", "loadImage"]
 - !private ["So8NSObjectP", "isEmpty"]
-- !private ["So8NSObjectP", "loadImage"]
 - !private ["So14NSSecureCodingP", "isEmpty"]
 - !private ["So8NSStringC", "isEmpty"]
 - !private ["37TestProjectForSibersCompanyByKurilovP15NetworkEndpointP", "characterId"]
@@ -332,23 +327,6 @@ depends-member:
 - !private ["s20TextOutputStreamableP", "init"]
 - !private ["s20TextOutputStreamableP", "init"]
 - !private ["s20TextOutputStreamableP", "isEmpty"]
-- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "loadImage"]
-- !private ["So29UIAccessibilityIdentificationP", "loadImage"]
-- !private ["So12UIAppearanceP", "loadImage"]
-- !private ["So21UIAppearanceContainerP", "loadImage"]
-- !private ["So17UICoordinateSpaceP", "loadImage"]
-- !private ["So13UIDynamicItemP", "loadImage"]
-- !private ["So18UIFocusEnvironmentP", "loadImage"]
-- !private ["So11UIFocusItemP", "loadImage"]
-- !private ["So20UIFocusItemContainerP", "loadImage"]
-- !private ["So11UIImageViewC", "loadImage"]
-- !private ["So30UIPasteConfigurationSupportingP", "loadImage"]
-- !private ["So11UIResponderC", "loadImage"]
-- !private ["So30UIResponderStandardEditActionsP", "loadImage"]
-- !private ["So18UITraitEnvironmentP", "loadImage"]
-- !private ["So23UIUserActivityRestoringP", "loadImage"]
-- !private ["So6UIViewC", "loadImage"]
-- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "loadImage"]
 - !private ["s24_DestructorSafeContainerP", "append"]
 - !private ["s24_DestructorSafeContainerP", "count"]
 - !private ["s24_DestructorSafeContainerP", "subscript"]
@@ -373,7 +351,6 @@ depends-member:
 - !private ["s35_HasCustomAnyHashableRepresentationP", "isEmpty"]
 - !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "isEmpty"]
-- !private ["10Foundation27_KeyValueCodingAndObservingP", "loadImage"]
 - !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
 - !private ["s21_ObjectiveCBridgeableP", "append"]
 - !private ["s21_ObjectiveCBridgeableP", "count"]
@@ -390,14 +367,13 @@ depends-nominal:
 - !private "s13ArrayProtocolP"
 - !private "SK"
 - !private "Sb"
-- !private "So15CALayerDelegateP"
 - !private "s7CVarArgP"
-- !private "37TestProjectForSibersCompanyByKurilovP15CachedImageViewC"
 - !private "37TestProjectForSibersCompanyByKurilovP9CharacterV"
 - !private "37TestProjectForSibersCompanyByKurilovP28CharacterDetailCellViewModelC"
 - !private "37TestProjectForSibersCompanyByKurilovP41CharacterDetailTableCellViewModelProtocolP"
 - "37TestProjectForSibersCompanyByKurilovP24CharacterDetailViewModelC"
 - "37TestProjectForSibersCompanyByKurilovP32CharacterDetailViewModelProtocolP"
+- !private "37TestProjectForSibersCompanyByKurilovP27CharacterImageCellViewModelC"
 - !private "Sl"
 - !private "SL"
 - !private "s28CustomDebugStringConvertibleP"
@@ -446,23 +422,6 @@ depends-nominal:
 - !private "Sy"
 - !private "s16TextOutputStreamP"
 - !private "s20TextOutputStreamableP"
-- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
-- !private "So29UIAccessibilityIdentificationP"
-- !private "So12UIAppearanceP"
-- !private "So21UIAppearanceContainerP"
-- !private "So17UICoordinateSpaceP"
-- !private "So13UIDynamicItemP"
-- !private "So18UIFocusEnvironmentP"
-- !private "So11UIFocusItemP"
-- !private "So20UIFocusItemContainerP"
-- !private "So11UIImageViewC"
-- !private "So30UIPasteConfigurationSupportingP"
-- !private "So11UIResponderC"
-- !private "So30UIResponderStandardEditActionsP"
-- !private "So18UITraitEnvironmentP"
-- !private "So23UIUserActivityRestoringP"
-- !private "So6UIViewC"
-- !private "s37_DefaultCustomPlaygroundQuickLookableP"
 - !private "s24_DestructorSafeContainerP"
 - !private "s35_ExpressibleByBuiltinBooleanLiteralP"
 - !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
@@ -500,4 +459,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "21846b1b104e04a09bd854ecb2a3883e"
+interface-hash: "a20c6eb3ddf6f8ffee416c21b887751e"

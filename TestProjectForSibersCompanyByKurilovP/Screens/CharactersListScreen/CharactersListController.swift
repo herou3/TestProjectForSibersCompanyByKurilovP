@@ -83,14 +83,14 @@ class CharactersListController: UIViewController {
     private func configureSearchBarNew() {
         self.view.addSubview(searchBar)
         searchBar.translatesAutoresizingMaskIntoConstraints = false
-        searchBar.topAnchor.constraint(equalTo: self.view.topAnchor,
-                                       constant: Constant.searchBarSizeValueH).isActive = true
+        searchBar.topAnchor.constraint(equalTo: self.view.safeAreaLayoutGuide.topAnchor).isActive = true
         searchBar.leftAnchor.constraint(equalTo: self.view.leftAnchor).isActive = true
         searchBar.rightAnchor.constraint(equalTo: self.view.rightAnchor).isActive = true
         searchBar.heightAnchor.constraint(equalToConstant: Constant.searchBarSizeValueH).isActive = true
         searchBar.delegate = self
         searchBar.barTintColor = UIColor.white
         searchBar.tintColor = .shadeOfCyan
+        searchBar.placeholder = "Enter name character"
         searchBar.backgroundColor = .shadeOfCyan
     }
     

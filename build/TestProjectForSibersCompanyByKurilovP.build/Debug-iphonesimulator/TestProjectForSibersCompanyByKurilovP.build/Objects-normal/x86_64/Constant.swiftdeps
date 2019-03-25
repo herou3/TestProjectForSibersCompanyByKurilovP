@@ -10,6 +10,7 @@ depends-top-level:
 - "CGFloat"
 - "Constant"
 - "FloatLiteralType"
+- "IntegerLiteralType"
 - "String"
 - "StringLiteralType"
 depends-member:
@@ -24,6 +25,8 @@ depends-member:
 - ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "CGFloat"]
 - ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "String"]
 - ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "baseUrl"]
+- ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "characterDetailCellSizeValue"]
+- ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "characterImageSizeValue"]
 - ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "fontSizeValue"]
 - ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "imageSizeValue"]
 - ["37TestProjectForSibersCompanyByKurilovP8ConstantV", "init"]
@@ -140,4 +143,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "6e66f6d1239b8e1427dacb5bc988b9b0"
+interface-hash: "94756a3e15531306b4d01e9a9b96f867"

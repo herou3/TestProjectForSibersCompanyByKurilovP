@@ -125,7 +125,6 @@ depends-member:
 - !private ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailTableCellC", "centerXAnchor"]
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailTableCellC", "configure"]
 - !private ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailTableCellC", "decriptionLabel"]
-- ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailTableCellC", "deinit"]
 - !private ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailTableCellC", "fatalError"]
 - ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailTableCellC", "init"]
 - !private ["37TestProjectForSibersCompanyByKurilovP24CharacterDetailTableCellC", "leftAnchor"]
@@ -1219,4 +1218,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "380f2acd0061349f3013be54332fcddb"
+interface-hash: "0d67c3e2f67a0e3c4e3d1e94e71c75d4"

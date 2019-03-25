@@ -25,12 +25,12 @@ class CharacterDetailTableCell: DefaultCell {
     
     // MARK: - Create UIElements for cell
     private var decriptionLabel: UILabel = {
-        let inputLabel = UILabel()
-        inputLabel.textColor = .black
-        inputLabel.translatesAutoresizingMaskIntoConstraints = false
-        inputLabel.font = UIFont.systemFont(ofSize: 18)
-        inputLabel.numberOfLines = 1
-        return inputLabel
+        let decriptionLabel = UILabel()
+        decriptionLabel.textColor = .black
+        decriptionLabel.translatesAutoresizingMaskIntoConstraints = false
+        decriptionLabel.font = UIFont.systemFont(ofSize: 18)
+        decriptionLabel.numberOfLines = 1
+        return decriptionLabel
     }()
     
     var valueLabel: UILabel = {
@@ -38,6 +38,7 @@ class CharacterDetailTableCell: DefaultCell {
         valueLabel.textColor = .darkGray
         valueLabel.font = UIFont.systemFont(ofSize: 18)
         valueLabel.tintColor = .black
+        valueLabel.numberOfLines = 2
         valueLabel.translatesAutoresizingMaskIntoConstraints = false
         return valueLabel
     }()
